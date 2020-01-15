@@ -8,8 +8,8 @@ C'est notamment le cas de Rclone, qui est un dérivé créé par Nick Craig-Wood
 
 Ce plugin permet d'interfacer cet outil avec Jeedom et simplifier la configuration des services de stockage en ligne.
 
-Installation et activation du plugin Cloudsyncpro
-=================================================
+Installation et activation du plugin
+====================================
 
 Le plugin Cloudsyncpro doit être installé via le market Jeedom.
 
@@ -33,8 +33,14 @@ Pour mettre à jour manuellement les dépendances, il faut cliquer sur "Relancer
 
 ![cloudsyncpro](../images/df83599d06ecebbea359557b5efb4dde.png)
 
-Configuration du plugin Cloudsyncpro
-====================================
+Configuration des équipements
+=============================
+
+Onglet Equipement
+-----------------
+
+Onglet Commandes
+----------------
 
 Services de stockage
 ====================

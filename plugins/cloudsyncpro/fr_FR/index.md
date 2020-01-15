@@ -8,8 +8,8 @@ C'est notamment le cas de Rclone, qui est un dérivé créé par Nick Craig-Wood
 
 Ce plugin permet d'interfacer cet outil avec Jeedom et simplifier la configuration des services de stockage en ligne.
 
-Installation et activation du plugin Cloudsyncpro
-=================================================
+Installation et activation du plugin
+====================================
 
 Le plugin Cloudsyncpro doit être installé via le market Jeedom.
 
@@ -33,82 +33,56 @@ Pour mettre à jour manuellement les dépendances, il faut cliquer sur "Relancer
 
 ![cloudsyncpro](../images/df83599d06ecebbea359557b5efb4dde.png)
 
-Fichiers LOG
-------------
+Configuration des équipements
+=============================
 
-Configuration
-=============
+Onglet Equipement
+-----------------
 
-Une fois le plugin installé, il vous faut lancer les dépendances puis configurer un équipement spécifique au service de stockage en ligne ou serveur (S)FTP sur lequel vous souhaitez synchroniser vos fichiers.
-Pour information, les dépendances sont installées automatiquement par Jeedom dans les 5 min. Elles seront également réinstallées lors d’une mise à jour du plugin si besoin.
+-   **Nom de l’équipement** : Nom de votre service de stockage
 
-Voici la liste des commandes disponibles pour chaque équipement :
+-   **Objet parent** : Indique l’objet parent auquel appartient l’équipement
 
-* Copie (source vers destination)
-* Synchronisation (source vers destination)
-* Liste (destination)
-* Suppression (destination)
-* Purge (destination)
+-   **Activer** : Permet de rendre votre équipement actif
 
-4 options sont disponibles pour chaque commande afin de sélectionner précisemment des fichiers :
+-   **Visible** : Rend votre équipement visible sur le dashboard
 
-* Inclusion des fichiers
-* Exclusion des fichiers
-* Ancienneté (minimum)
-* Ancienneté (maximum)
+-   **Commentaire** : Champ de texte libre
 
-Commandes
----------
+-   **Type de stockage** : Type de votre service de stockage
 
-* Copie (source vers destination)
+![cloudsyncpro](../images/1b27a7acbb02749f2dc1777ab5ca1686.png)
 
-La commande '**copie**' permet de transférer les nouveaux fichiers ainsi que les fichiers modifiés depuis le lancement de la dernière commande. Les fichiers supprimés à la source ne sont PAS supprimés à la destination.
+Onglet Commandes
+----------------
 
-* Synchronisation (source vers destination)
-
-La commande '**synchronisation**' permet d'avoir une réplique exacte des données à la source sur la destination. Cette commande permet de transférer les nouveaux fichiers ainsi que les fichiers modifiés depuis le lancement de la dernière commande.
-Les fichiers supprimés à la source sont AUSSI supprimés à la destination.
-
-* Liste (destination)
-
-La commande '**liste**' permet de récupérer la liste des fichiers sur la destination
-
-* Suppression (destination)
-
-La commande '**suppression**' permet de supprimer des fichiers sur la destination
-
-* Purge (destination)
-
-La commande '**purge**' permet de supprimer les fichiers dans la poubelle et/ou le versionning des fichiers afin de libérer de l'espace sur le stockage.
-
-Options
--------
-
-* Inclusion des fichiers
-
-* Exclusion des fichiers
-
-* Ancienneté (minimum)
-
-* Ancienneté (maximum)
+Services de stockage
+====================
 
 FTP
-===
+---
+
+File Transfer Protocol (protocole de transfert de fichier), ou FTP, est un protocole de communication destiné au partage de fichiers sur un réseau TCP/IP.
 
 SFTP
-====
+----
+
+SSH File Transfer Protocol (protocole de transfert de fichier), ou SFTP, est un protocole de communication fonctionnant au-dessus de SSH pour transférer et gérer des fichiers à distance.
 
 Dropbox
-=======
+-------
+
+Dropbox est un service de stockage et de partage de copies de fichiers locaux en ligne proposé par Dropbox, Inc., entreprise localisée à San Francisco, en Californie.
 
 Google Drive
-============
+------------
+
+Google Drive ou Google Disque au Québec, est un service de stockage et de partage de fichiers dans le cloud lancé par la société Google.
 
 Nextcloud
-=========
+---------
 
-Local
-=====
+Nextcloud est un logiciel libre, de site d'hébergement de fichiers, et un fork du logiciel ownCloud. À l'origine accessible via WebDAV, n'importe quel navigateur web, ou des clients spécialisés, son architecture ouverte a permis de voir ses fonctionnalités s'étendre depuis ses origines.
 
 FAQ
 ===

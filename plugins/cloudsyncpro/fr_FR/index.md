@@ -64,25 +64,35 @@ FTP
 
 File Transfer Protocol (protocole de transfert de fichier), ou FTP, est un protocole de communication destiné au partage de fichiers sur un réseau TCP/IP.
 
+![cloudsyncpro](../images/79d739a3a0938015f8de7c6aed3fe715.png)
+
 SFTP
 ----
 
 SSH File Transfer Protocol (protocole de transfert de fichier), ou SFTP, est un protocole de communication fonctionnant au-dessus de SSH pour transférer et gérer des fichiers à distance.
+
+![cloudsyncpro](../images/TODO.png)
 
 Dropbox
 -------
 
 Dropbox est un service de stockage et de partage de copies de fichiers locaux en ligne proposé par Dropbox, Inc., entreprise localisée à San Francisco, en Californie.
 
+![cloudsyncpro](../images/162caa41f06afcf36200c23318e2bcc6.png)
+
 Google Drive
 ------------
 
 Google Drive ou Google Disque au Québec, est un service de stockage et de partage de fichiers dans le cloud lancé par la société Google.
 
+![cloudsyncpro](../images/ac2bbda15c853d03741c379cdf497dd0.png)
+
 Nextcloud
 ---------
 
 Nextcloud est un logiciel libre, de site d'hébergement de fichiers, et un fork du logiciel ownCloud. À l'origine accessible via WebDAV, n'importe quel navigateur web, ou des clients spécialisés, son architecture ouverte a permis de voir ses fonctionnalités s'étendre depuis ses origines.
+
+![cloudsyncpro](../images/1a58b154a37a7ae02101076eb303571c.png)
 
 FAQ
 ===

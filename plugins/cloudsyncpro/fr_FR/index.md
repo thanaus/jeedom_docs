@@ -33,11 +33,39 @@ Pour mettre à jour manuellement les dépendances, il faut cliquer sur "Relancer
 
 ![cloudsyncpro](../images/df83599d06ecebbea359557b5efb4dde.png)
 
-Fichiers LOG
+Configuration du plugin Cloudsyncpro
+====================================
+
+Services de stockage
+====================
+
+FTP
+---
+
+SFTP
+----
+
+Dropbox
+-------
+
+Google Drive
 ------------
 
-Configuration
-=============
+Nextcloud
+---------
+
+Local
+-----
+
+FAQ
+===
+
+
+
+
+
+
+
 
 Une fois le plugin installé, il vous faut lancer les dépendances puis configurer un équipement spécifique au service de stockage en ligne ou serveur (S)FTP sur lequel vous souhaitez synchroniser vos fichiers.
 Pour information, les dépendances sont installées automatiquement par Jeedom dans les 5 min. Elles seront également réinstallées lors d’une mise à jour du plugin si besoin.
@@ -92,23 +120,3 @@ Options
 
 * Ancienneté (maximum)
 
-FTP
-===
-
-SFTP
-====
-
-Dropbox
-=======
-
-Google Drive
-============
-
-Nextcloud
-=========
-
-Local
-=====
-
-FAQ
-===

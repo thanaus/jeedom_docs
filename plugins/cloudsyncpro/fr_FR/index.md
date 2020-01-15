@@ -71,7 +71,7 @@ SFTP
 
 SSH File Transfer Protocol (protocole de transfert de fichier), ou SFTP, est un protocole de communication fonctionnant au-dessus de SSH pour transférer et gérer des fichiers à distance.
 
-![cloudsyncpro](../images/TODO.png)
+![cloudsyncpro](../images/768ac996ce21cfc8b1c41beddad9f9e4.png)
 
 Dropbox
 -------

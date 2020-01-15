@@ -49,6 +49,10 @@ Onglet Equipement
 
 -   **Commentaire** : Champ de texte libre
 
+-   **Type de stockage** : Type de votre service de stockage
+
+![cloudsyncpro](../images/1b27a7acbb02749f2dc1777ab5ca1686.png)
+
 Onglet Commandes
 ----------------
 
@@ -82,64 +86,3 @@ Nextcloud est un logiciel libre, de site d'hébergement de fichiers, et un fork 
 
 FAQ
 ===
-
-
-
-
-
-
-
-
-Une fois le plugin installé, il vous faut lancer les dépendances puis configurer un équipement spécifique au service de stockage en ligne ou serveur (S)FTP sur lequel vous souhaitez synchroniser vos fichiers.
-Pour information, les dépendances sont installées automatiquement par Jeedom dans les 5 min. Elles seront également réinstallées lors d’une mise à jour du plugin si besoin.
-
-Voici la liste des commandes disponibles pour chaque équipement :
-
-* Copie (source vers destination)
-* Synchronisation (source vers destination)
-* Liste (destination)
-* Suppression (destination)
-* Purge (destination)
-
-4 options sont disponibles pour chaque commande afin de sélectionner précisemment des fichiers :
-
-* Inclusion des fichiers
-* Exclusion des fichiers
-* Ancienneté (minimum)
-* Ancienneté (maximum)
-
-Commandes
----------
-
-* Copie (source vers destination)
-
-La commande '**copie**' permet de transférer les nouveaux fichiers ainsi que les fichiers modifiés depuis le lancement de la dernière commande. Les fichiers supprimés à la source ne sont PAS supprimés à la destination.
-
-* Synchronisation (source vers destination)
-
-La commande '**synchronisation**' permet d'avoir une réplique exacte des données à la source sur la destination. Cette commande permet de transférer les nouveaux fichiers ainsi que les fichiers modifiés depuis le lancement de la dernière commande.
-Les fichiers supprimés à la source sont AUSSI supprimés à la destination.
-
-* Liste (destination)
-
-La commande '**liste**' permet de récupérer la liste des fichiers sur la destination
-
-* Suppression (destination)
-
-La commande '**suppression**' permet de supprimer des fichiers sur la destination
-
-* Purge (destination)
-
-La commande '**purge**' permet de supprimer les fichiers dans la poubelle et/ou le versionning des fichiers afin de libérer de l'espace sur le stockage.
-
-Options
--------
-
-* Inclusion des fichiers
-
-* Exclusion des fichiers
-
-* Ancienneté (minimum)
-
-* Ancienneté (maximum)
-

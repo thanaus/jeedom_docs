@@ -39,6 +39,16 @@ Configuration des équipements
 Onglet Equipement
 -----------------
 
+-   **Nom de l’équipement** : Nom de votre service de stockage
+
+-   **Objet parent** : Indique l’objet parent auquel appartient l’équipement
+
+-   **Activer** : Permet de rendre votre équipement actif
+
+-   **Visible** : Rend votre équipement visible sur le dashboard
+
+-   **Commentaire** : Champ de texte libre
+
 Onglet Commandes
 ----------------
 
@@ -48,20 +58,27 @@ Services de stockage
 FTP
 ---
 
+File Transfer Protocol (protocole de transfert de fichier), ou FTP, est un protocole de communication destiné au partage de fichiers sur un réseau TCP/IP.
+
 SFTP
 ----
+
+SSH File Transfer Protocol (protocole de transfert de fichier), ou SFTP, est un protocole de communication fonctionnant au-dessus de SSH pour transférer et gérer des fichiers à distance.
 
 Dropbox
 -------
 
+Dropbox est un service de stockage et de partage de copies de fichiers locaux en ligne proposé par Dropbox, Inc., entreprise localisée à San Francisco, en Californie.
+
 Google Drive
 ------------
+
+Google Drive ou Google Disque au Québec, est un service de stockage et de partage de fichiers dans le cloud lancé par la société Google.
 
 Nextcloud
 ---------
 
-Local
------
+Nextcloud est un logiciel libre, de site d'hébergement de fichiers, et un fork du logiciel ownCloud. À l'origine accessible via WebDAV, n'importe quel navigateur web, ou des clients spécialisés, son architecture ouverte a permis de voir ses fonctionnalités s'étendre depuis ses origines.
 
 FAQ
 ===

@@ -12,17 +12,26 @@ Installation et activation du plugin Cloudsyncpro
 =================================================
 
 Le plugin Cloudsyncpro doit être installé via le market Jeedom.
+
+![cloudsyncpro](../images/c79bc8a975d6c3d2d6b358fecf424364.png) ![cloudsyncpro](../images/0756e6d2ebb078ad6d6218eb7f877ab8.png)
+
 Une fois le plugin installé, il suffit de l’activer en cliquant sur "Activer".
+
+![cloudsyncpro](../images/e49685947a96b7b166fb675155eac787.png)
 
 Installation des dépendances
 ----------------------------
 
 Les dépendances sont installées automatiquement par Jeedom dans les 5 min. Elles seront également réinstallées lors d'une mise à jour du plugin si besoin.
 
+![cloudsyncpro](../images/ab08acd6c64a40354c8d3ddc80421ab2.png)
+
 Mise à jour manuelle des dépendances
 ------------------------------------
 
 Pour mettre à jour manuellement les dépendances, il faut cliquer sur "Relancer".
+
+![cloudsyncpro](../images/df83599d06ecebbea359557b5efb4dde.png)
 
 Fichiers LOG
 ------------

@@ -1,15 +1,15 @@
 Stable
 =========================
 
-2020-02-18 05:14:14
+2020-02-18 05:15:14
 -------------------
 
-* Version initiale
+* Mise à jour du Market (Jeedom)
 
 Beta
 =========================
 
-2020-02-18 05:15:14
+2020-02-18 05:14:14
 -------------------
 
-* Version initiale
+* Mise à jour du Market (Jeedom)

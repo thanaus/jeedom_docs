@@ -22,6 +22,11 @@ Stable
 Beta
 =========================
 
+2020-04-18 XX:XX:XX
+-------------------
+
+* Evolution cosmétique (largeur du champ 'Commentaire')
+
 2020-02-18 03:13:13
 -------------------
 

@@ -9,6 +9,12 @@ Stable
 Beta
 =========================
 
+2020-04-02 XX:XX:XX
+-------------------
+
+* Image manquante (wind2kts.svg) sur le dashboard (widget anémomètre)
+`Console: Failed to load resource: the server responded with a status of 404 (Not Found)`
+
 2020-04-01 19:46:08
 -------------------
 

@@ -9,7 +9,7 @@ Stable
 Beta
 =========================
 
-2020-04-02 XX:XX:XX
+2020-04-03 05:26:25
 -------------------
 
 * Image manquante (wind2kts.svg) sur le dashboard (widget anémomètre)  

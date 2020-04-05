@@ -1,6 +1,14 @@
 Stable
 =========================
 
+2020-XX-XX XX:XX:XX
+-------------------
+
+* Mise à jour du fichier info.json suite à un bug du core Jeedom (remplacement du tag #language# par fr_FR)
+https://community.jeedom.com/t/description-plugin-info-json/22513
+* Evolution cosmétique (largeur du champ 'Commentaire')
+* Ajout du tag V4 dans la définition du plugin (info.json)
+
 2020-02-18 03:14:15
 -------------------
 

@@ -1,7 +1,7 @@
 Stable
 =========================
 
-2020-XX-XX XX:XX:XX
+2020-04-06 03:14:16
 -------------------
 
 * Mise à jour du fichier info.json suite à un bug du core Jeedom (remplacement du tag #language# par fr_FR)

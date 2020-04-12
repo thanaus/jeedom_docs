@@ -5,7 +5,7 @@ Stable
 -------------------
 
 * Mise à jour du fichier info.json suite à un bug du core Jeedom (remplacement du tag #language# par fr_FR)  
-<https://community.jeedom.com/t/description-plugin-info-json/22513>
+[https://community.jeedom.com/t/description-plugin-info-json/22513]https://community.jeedom.com/t/description-plugin-info-json/22513
 * Evolution cosmétique (largeur du champ 'Commentaire')
 * Ajout du tag V4 dans la définition du plugin (info.json)
 

@@ -13,7 +13,7 @@ Beta
 -------------------
 
 * Mise à jour du fichier info.json suite à un bug du core Jeedom (remplacement du tag #language# par fr_FR)  
-https://community.jeedom.com/t/description-plugin-info-json/22513
+[https://community.jeedom.com/t/description-plugin-info-json/22513](https://community.jeedom.com/t/description-plugin-info-json/22513)
 
 2020-04-03 05:26:25
 -------------------

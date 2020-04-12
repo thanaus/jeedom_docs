@@ -9,7 +9,7 @@ Stable
 Beta
 =========================
 
-2020-12-04 XX:XX:XX
+2020-04-12 12:49:45
 -------------------
 
 * Mise à jour du widget au design V4 Jeedom (Weather Station / Module intérieur (NAMain))

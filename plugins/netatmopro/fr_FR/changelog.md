@@ -9,6 +9,12 @@ Stable
 Beta
 =========================
 
+2020-04-17 XX:XX:XX
+-------------------
+
+* Mise à jour du widget au design V4 Jeedom (Weather Station / Anémomètre (NAModule2))
+* Mise à jour du widget au design V4 Jeedom (Weather Station / Module additionel (NAModule4))
+
 2020-04-16 10:17:33
 -------------------
 

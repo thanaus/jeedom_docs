@@ -9,7 +9,7 @@ Stable
 Beta
 =========================
 
-2020-XX-XX XX:XX:XX
+2020-04-22 18:46:53
 -------------------
 
 * Ajout du tag V4 dans la définition du plugin (info.json)

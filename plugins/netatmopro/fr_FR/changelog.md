@@ -9,6 +9,12 @@ Stable
 Beta
 =========================
 
+2020-XX-XX XX:XX:XX
+-------------------
+
+* Ajout du tag V4 dans la définition du plugin (info.json)
+* Optimisation du code CSS (Weather Station / Module intérieur (NAMain))
+
 2020-04-17 05:27:26
 -------------------
 

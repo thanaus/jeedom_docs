@@ -1,7 +1,7 @@
 Stable
 =========================
 
-2020-XX-XX XX:XX:XX
+2020-04-24 14:56:58
 -------------------
 
 * Compatibilité Jeedom V4 (core)
@@ -20,6 +20,6 @@ Stable
 Beta
 =========================
 
-2020-XX-XX XX:XX:XX
+2020-04-22 18:46:53
 -------------------
 * version identique à la version stable

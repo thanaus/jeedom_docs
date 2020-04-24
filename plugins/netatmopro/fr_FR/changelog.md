@@ -16,6 +16,7 @@ Stable
 * Optimisation du code CSS (Weather Station / Module intérieur (NAMain))
 * Image manquante (wind2kts.svg) sur le dashboard (widget anémomètre)  
 `Console: Failed to load resource: the server responded with a status of 404 (Not Found)`
+* Incohérence sur le type de batterie (Weather Station / Anémomètre (NAModule2))
 
 Beta
 =========================

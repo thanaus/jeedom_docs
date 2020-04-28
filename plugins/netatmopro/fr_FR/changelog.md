@@ -21,6 +21,6 @@ Stable
 Beta
 =========================
 
-2020-04-22 18:46:53
+2020-04-28 22:34:36
 -------------------
-* version identique à la version stable
+* Compatibilité des widgets V3/V4 (Weather Station) 

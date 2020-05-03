@@ -12,7 +12,7 @@ Installation et activation du plugin
 
 Le plugin SIApro doit être installé via le market Jeedom.
 
-![siapro](../images/c79bc8a975d6c3d2d6b358fecf424364.png) ![siapro](../images/0756e6d2ebb078ad6d6218eb7f877ab8.png)
+![siapro](../images/c79bc8a975d6c3d2d6b358fecf424364.png) ![siapro](../images/0756e6d2ebb078ad6d6218eb7f877ab8.png)  
 
 Une fois le plugin installé, il suffit de l’activer en cliquant sur "Activer".
 

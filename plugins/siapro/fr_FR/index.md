@@ -18,12 +18,16 @@ Une fois le plugin installé, il suffit de l’activer en cliquant sur "Activer"
 
 ![siapro](../images/e49685947a96b7b166fb675155eac787.png)
 
-XXXXXXXXXXXXXXXXXXInstallation des dépendances
+Installation des dépendances
 ----------------------------------------------
 
 Les dépendances sont installées automatiquement par Jeedom dans les 5 min. Elles seront également réinstallées lors d'une mise à jour du plugin si besoin.
 
-![cloudsyncpro](../images/ab08acd6c64a40354c8d3ddc80421ab2.png)
+![siapro](../images/ab08acd6c64a40354c8d3ddc80421ab2.png)
+
+Une fois les dépendances installées, le démon se lance (dans les 5 min). Si le statut n’est pas sur “OK”, il faut cliquer sur “(Re)Démarrer”.
+
+![siapro](../images/4fea365037d6b288d894e4ba1bc65eb5.png)
 
 Mise à jour manuelle des dépendances
 ------------------------------------

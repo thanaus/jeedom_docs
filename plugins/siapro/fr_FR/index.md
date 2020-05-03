@@ -2,7 +2,8 @@ Une centrale d'alarme, via le protocole SIA, peut être raccordée en télésurv
 
 Présentation SIAPro
 =========================
-Le protocole SIA (norme ANSI/SIA DC-09-2007) a été établie par l'association "Security Industry Association" et décrit dans le document "SIA Digital Communication Standard - Internet Protocol Event Reporting". Ce protocole permet d'uniformiser les signaux d'alarmes IP quelque soit la centrale d'alarme sans aucune dépendance d'un fabricant/protocole propriétaire.
+Le protocole SIA (norme ANSI/SIA DC-09-2007) a été établie par l'association "Security Industry Association" et décrit dans le document "SIA Digital Communication Standard - Internet Protocol Event Reporting".  
+Ce protocole permet d'uniformiser les signaux d'alarmes IP quelque soit la centrale d'alarme sans aucune dépendance d'un fabricant/protocole propriétaire.
 
 Ce plugin permet d'interfacer cette norme avec Jeedom.
 

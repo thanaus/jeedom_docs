@@ -63,8 +63,6 @@ Onglet Equipement
 
 -   **Visible** : Rend votre équipement visible sur le dashboard
 
-![cloudsyncpro](../images/1b27a7acbb02749f2dc1777ab5ca1686.png)
-
 Onglet Commandes
 ----------------
 

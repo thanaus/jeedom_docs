@@ -55,7 +55,7 @@ Configuration des équipements
 Onglet Equipement
 -----------------
 
--   **Nom de l’équipement** : Nom de votre service de stockage
+-   **Nom de l’équipement** : Nom généré automatiquement après réception de la première trame SIA et modifiable par l'utilisateur
 
 -   **Objet parent** : Indique l’objet parent auquel appartient l’équipement
 
@@ -64,8 +64,6 @@ Onglet Equipement
 -   **Visible** : Rend votre équipement visible sur le dashboard
 
 -   **Commentaire** : Champ de texte libre
-
--   **Type de stockage** : Type de votre service de stockage
 
 ![cloudsyncpro](../images/1b27a7acbb02749f2dc1777ab5ca1686.png)
 

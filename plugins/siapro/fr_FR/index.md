@@ -34,14 +34,14 @@ Mise à jour manuelle des dépendances
 
 Pour mettre à jour manuellement les dépendances, il faut cliquer sur "Relancer".
 
-![cloudsyncpro](../images/df83599d06ecebbea359557b5efb4dde.png)
+![siapro](../images/df83599d06ecebbea359557b5efb4dde.png)
 
 Configuration du plugin
 ====================================
 
 La configuration du plugin est extremement simple et lié aux informations indiquées dans la configuration de la centrale d'alarme (Port SIA et clé de cryptage).
 
-![cloudsyncpro](../images/b46294e8d9c47f77598aea35f789eba8.png)
+![siapro](../images/b46294e8d9c47f77598aea35f789eba8.png)
 
 -   **Port SIA** : Numéro du port du démon (réception/accusé de réception des trames SIA)
 

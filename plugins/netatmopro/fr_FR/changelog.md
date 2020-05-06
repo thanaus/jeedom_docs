@@ -21,6 +21,11 @@ Stable
 Beta
 =========================
 
+2020-05-06 01:04:48
+-------------------
+
+* Intégration du Détecteur de Fumée Intelligent (NSD)
+
 2020-04-28 22:34:36
 -------------------
 * Compatibilité des widgets V3/V4 (Weather Station) 

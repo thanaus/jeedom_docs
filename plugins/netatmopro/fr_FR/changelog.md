@@ -21,6 +21,12 @@ Stable
 Beta
 =========================
 
+2020-05-16 08:53:30
+-------------------
+
+* Intégration de la Sirène Intérieure Intelligente (NIS)
+* Intégration des Détecteurs d’Ouverture Intelligents pour Portes et Fenêtres (NACamDoorTag)
+
 2020-05-06 01:04:48
 -------------------
 

@@ -25,10 +25,10 @@ Beta
 -------------------
 
 * Ajout de 4 commandes sur le relai (NAPlug) :  
-  - @icn-camera 'Mode de fonctionnement (En cours)'  
-  - 'Mode de fonctionnement'  
-  - 'Jeu de température'  
-  - 'Plage horaire'  
+  - 'Mode de fonctionnement (En cours)' / Type INFO  
+  - 'Mode de fonctionnement' / Type ACTION-LISTE  
+  - 'Jeu de température' / Type INFO  
+  - 'Plage horaire' / Type INFO  
 * Widget par défaut (Jeedom) pour les équipements :  
   - Détecteur de Fumée Intelligent (NSD)  
   - Sirène Intérieure Intelligente (NIS)  

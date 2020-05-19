@@ -24,10 +24,11 @@ Beta
 2020-05-16 08:53:30
 -------------------
 
-* Ajout d'une commande d'information 'Mode de fonctionnement (En cours)' sur le relai (NAPlug)
-* Ajout d'une commande d'action 'Mode de fonctionnement' sur le relai (NAPlug)
-* Ajout d'une commande d'information 'Jeu de température' sur le relai (NAPlug)
-* Ajout d'une commande d'information 'Plage horaire' sur le relai (NAPlug)
+* Ajout de 4 commandes sur le relai (NAPlug) :  
+  - 'Mode de fonctionnement (En cours)'  
+  - 'Mode de fonctionnement'  
+  - 'Jeu de température'  
+  - 'Plage horaire'  
 * Widget par défaut (Jeedom) pour les équipements :  
   - Détecteur de Fumée Intelligent (NSD)  
   - Sirène Intérieure Intelligente (NIS)  

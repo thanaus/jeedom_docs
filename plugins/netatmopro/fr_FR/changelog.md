@@ -28,7 +28,10 @@ Beta
 * Ajout d'une commande d'action 'Mode de fonctionnement' sur le relai (NAPlug)
 * Ajout d'une commande d'information 'Jeu de température' sur le relai (NAPlug)
 * Ajout d'une commande d'information 'Plage horaire' sur le relai (NAPlug)
-* Widget par défaut (Jeedom) pour le Détecteur de Fumée Intelligent (NSD), la Sirène Intérieure Intelligente (NIS) et les Détecteurs d’Ouverture Intelligents pour Portes et Fenêtres (NACamDoorTag)
+* Widget par défaut (Jeedom) pour les équipements :  
+  Détecteur de Fumée Intelligent (NSD)
+  Sirène Intérieure Intelligente (NIS)
+  Détecteurs d’Ouverture Intelligents pour Portes et Fenêtres (NACamDoorTag)
 
 2020-05-16 08:53:30
 -------------------

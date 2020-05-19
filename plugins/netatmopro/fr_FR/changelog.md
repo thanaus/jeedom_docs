@@ -5,7 +5,7 @@ Stable
 -------------------
 
 * Compatibilité Jeedom V4 (core)
-* Mise à jour du widget au design V4 Jeedom  
+* Mise à jour du widget au design V4 Jeedom :  
   - Weather Station / Module intérieur (NAMain)  
   - Weather Station / Module extérieur (NAModule1)  
   - Weather Station / Anémomètre (NAModule2)  

@@ -25,7 +25,7 @@ Beta
 -------------------
 
 * Ajout de 4 commandes sur le relai (NAPlug) :  
-  - 'Mode de fonctionnement (En cours)'  
+  - @icn-camera 'Mode de fonctionnement (En cours)'  
   - 'Mode de fonctionnement'  
   - 'Jeu de température'  
   - 'Plage horaire'  

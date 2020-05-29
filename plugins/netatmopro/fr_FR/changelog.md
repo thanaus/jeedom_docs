@@ -22,6 +22,15 @@ Stable
 Beta
 =========================
 
+2020-05-29 21:16:42
+-------------------
+
+* Association incorrecte évènement/équipement pour les notifications Netatmo (webhook) :  
+  - NACamera-tag_small_move  
+  - NACamera-tag_big_move  
+  - NACamera-tag_open  
+  - NACamera-tag_close
+
 2020-05-21 17:02:50
 -------------------
 

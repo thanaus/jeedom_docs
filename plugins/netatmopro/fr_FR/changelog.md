@@ -22,6 +22,16 @@ Stable
 Beta
 =========================
 
+2020-06-01 14:55:14
+-------------------
+
+* Optimisation de la mise à jour des équipements pour les notifications Netatmo (webhook) :  
+  - NACamera-person  
+  - NACamera-tag_open  
+  - NACamera-tag_close
+  - NOC-on  
+  - NOC-off
+
 2020-05-29 21:16:42
 -------------------
 

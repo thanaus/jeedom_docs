@@ -22,6 +22,13 @@ Stable
 Beta
 =========================
 
+2020-06-05 11:41:24
+-------------------
+
+* Mise à jour des équipements pour les notifications Netatmo (webhook) :
+  - NACamera-tag_small_move  
+  - NACamera-tag_big_move  
+
 2020-06-01 14:55:14
 -------------------
 

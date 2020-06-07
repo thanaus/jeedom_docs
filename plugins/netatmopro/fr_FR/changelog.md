@@ -56,4 +56,5 @@ Beta
   - Weather Station / Module extérieur (NAModule1)  
   - Weather Station / Anémomètre (NAModule2)  
   - Weather Station / Pluviomètre (NAModule3)  
+  - Weather Station / Module additionel (NAModule4)
   - Aircare / Capteur (NHC)

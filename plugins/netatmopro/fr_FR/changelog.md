@@ -48,3 +48,12 @@ Stable
 Beta
 =========================
 
+2020-06-07 11:25:01
+-------------------
+
+* Refresh automatique des widgets personnalisés sur le dashboard :
+  - Weather Station / Module intérieur (NAMain)  
+  - Weather Station / Module extérieur (NAModule1)  
+  - Weather Station / Anémomètre (NAModule2)  
+  - Weather Station / Pluviomètre (NAModule3)  
+  - Aircare / Capteur (NHC)

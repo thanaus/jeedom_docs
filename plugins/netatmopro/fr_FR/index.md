@@ -27,7 +27,7 @@ Une fois le plugin installé, il vous faut renseigner vos informations de connec
 ### Activation de l'API
 
 Pour activer l'API et ainsi récupérer les données de vos équipements, vous devez créer une application. Pour cette étape, il vous faut se connecter à l'adresse suivante :
-[https://dev.netatmo.com/en-US/dev](https://dev.netatmo.com/en-US/dev)
+[https://dev.netatmo.com](https://dev.netatmo.com)
 
 Cliquez ensuite sur le menu '_CREATE YOUR APP_'. Il vous sera alors demandé de vous identifier (Email/Password). Ces informations sont liées à votre compte Netatmo que vous avez créé pour activer votre équipement.
 

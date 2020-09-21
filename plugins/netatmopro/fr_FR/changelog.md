@@ -48,7 +48,7 @@ Stable
 Beta
 =========================
 
-2020-06-11 10:58:32
+2020-09-21 16:46:49
 -------------------
 
 * Mise à jour de la commande 'Projecteur (Statut)' pour la notification Netatmo (webhook) :

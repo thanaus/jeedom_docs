@@ -51,7 +51,8 @@ Beta
 2020-06-11 10:58:32
 -------------------
 
-* Mise à jour de la commande 'Projecteur (Statut)' par la notifications Netatmo (webhook)
+* Mise à jour de la commande 'Projecteur (Statut)' pour la notification Netatmo (webhook) :
+  - NOC-light_mode
 
 2020-06-11 10:58:32
 -------------------

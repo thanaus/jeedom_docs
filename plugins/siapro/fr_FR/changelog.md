@@ -8,7 +8,7 @@ Stable
 Beta
 =========================
 
-2020-09-21 11:25:56
+2020-09-21 11:29:26
 -------------------
 * Ajout du code SIA 'NP' dans le fichier de description JSON
 

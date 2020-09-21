@@ -51,6 +51,11 @@ Beta
 2020-06-11 10:58:32
 -------------------
 
+* Mise à jour de la commande 'Projecteur (Statut)' par la notifications Netatmo (webhook)
+
+2020-06-11 10:58:32
+-------------------
+
 * Mise à jour du répertoire 3rdParty Netatmo  
 [https://github.com/Netatmo/Netatmo-API-PHP](https://github.com/Netatmo/Netatmo-API-PHP)
 

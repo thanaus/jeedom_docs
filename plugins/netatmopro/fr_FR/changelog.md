@@ -1,6 +1,21 @@
 Stable
 =========================
 
+2020-11-14 17:11:42
+-------------------
+
+* Refresh automatique des widgets personnalisés sur le dashboard :
+  - Weather Station / Module intérieur (NAMain)  
+  - Weather Station / Module extérieur (NAModule1)  
+  - Weather Station / Anémomètre (NAModule2)  
+  - Weather Station / Pluviomètre (NAModule3)  
+  - Weather Station / Module additionel (NAModule4)
+  - Aircare / Capteur (NHC)
+* Mise à jour de la commande 'Projecteur (Statut)' pour la notification Netatmo (webhook) :
+  - NOC-light_mode
+* Mise à jour du répertoire 3rdParty Netatmo  
+[https://github.com/Netatmo/Netatmo-API-PHP](https://github.com/Netatmo/Netatmo-API-PHP)
+
 2020-06-06 17:32:06
 -------------------
 
@@ -48,25 +63,4 @@ Stable
 Beta
 =========================
 
-2020-09-21 16:46:49
--------------------
 
-* Mise à jour de la commande 'Projecteur (Statut)' pour la notification Netatmo (webhook) :
-  - NOC-light_mode
-
-2020-06-11 10:58:32
--------------------
-
-* Mise à jour du répertoire 3rdParty Netatmo  
-[https://github.com/Netatmo/Netatmo-API-PHP](https://github.com/Netatmo/Netatmo-API-PHP)
-
-2020-06-07 11:25:01
--------------------
-
-* Refresh automatique des widgets personnalisés sur le dashboard :
-  - Weather Station / Module intérieur (NAMain)  
-  - Weather Station / Module extérieur (NAModule1)  
-  - Weather Station / Anémomètre (NAModule2)  
-  - Weather Station / Pluviomètre (NAModule3)  
-  - Weather Station / Module additionel (NAModule4)
-  - Aircare / Capteur (NHC)

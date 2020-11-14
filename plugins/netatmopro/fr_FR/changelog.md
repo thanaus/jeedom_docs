@@ -63,4 +63,8 @@ Stable
 Beta
 =========================
 
+2020-11-14 17:38:13
+-------------------
 
+* Ajout d'une commande sur le détecteur d'ouveture intelligent (NACamDoorTag) :  
+  - 'Batterie (Pourcentage)' / Type INFO

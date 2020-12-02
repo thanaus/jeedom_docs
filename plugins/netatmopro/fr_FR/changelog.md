@@ -63,6 +63,18 @@ Stable
 Beta
 =========================
 
+2020-12-02 12:10:47
+-------------------
+
+* Mise à jour de la gestion des erreurs de connexion (API/Web)
+  - Netatmo\Exceptions\NAApiErrorType - 13 - Application does not have the good scope rights
+  - Netatmo\Exceptions\NAApiErrorType - 500 - Internal Server Error
+  - Netatmo\Exceptions\NAApiErrorType - 503 -
+  - Netatmo\Exceptions\NACurlErrorType - 7 - Failed to connect to api.netatmo.com port 443: Connection refused
+  - Netatmo\Exceptions\NACurlErrorType - 28 - Connection timed out after 10000 milliseconds
+  - GuzzleHttp\Exception\ConnectException - 0 - cURL error 7: Failed to connect to app.netatmo.net port 443: Connection refused (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+  - GuzzleHttp\Exception\ClientException - 403 - Client error: `POST https://xxx` resulted in a `403 Forbidden` response: {"error":{"code":2,"message":"Invalid access token"}}
+
 2020-11-14 17:38:13
 -------------------
 

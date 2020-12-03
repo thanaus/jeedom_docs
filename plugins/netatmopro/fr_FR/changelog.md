@@ -63,6 +63,13 @@ Stable
 Beta
 =========================
 
+2020-12-03 09:35:18
+-------------------
+
+* Mise à jour de la gestion des erreurs de connexion (API)
+  - Netatmo\Exceptions\NAApiErrorType - 502 - Bad Gateway
+  - Netatmo\Exceptions\NACurlErrorType - 28 - Resolving timed out after 10000 milliseconds
+
 2020-12-02 12:10:47
 -------------------
 

@@ -63,6 +63,13 @@ Stable
 Beta
 =========================
 
+2020-12-07 12:56:08
+-------------------
+
+* Mise à jour de la gestion des erreurs de connexion (API/Web)
+  - Netatmo\Exceptions\NACurlErrorType - 28 - Operation timed out after 60001 milliseconds with 0 bytes received
+  - GuzzleHttp\\Exception\\ServerException - 500 - Server error: 'GET https://my.netatmo.com' resulted in a '500 Internal Server Error' response: Error
+
 2020-12-03 09:35:18
 -------------------
 

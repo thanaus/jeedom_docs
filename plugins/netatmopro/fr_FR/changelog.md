@@ -63,31 +63,37 @@ Stable
 Beta
 =========================
 
+2020-12-11 17:47:16
+-------------------
+
+* Réinitialisation du cookie en cas d'erreur avec le framework Guzzle (GuzzleHttp\Exception\[xxx]) lors de la synchronisation par cron5() 
+* Exclusion des stations météo en favoris
+
 2020-12-07 12:56:08
 -------------------
 
-* Mise à jour de la gestion des erreurs de connexion (API/Web)
-  - Netatmo\Exceptions\NACurlErrorType - 28 - Operation timed out after 60001 milliseconds with 0 bytes received
-  - GuzzleHttp\\Exception\\ServerException - 500 - Server error: 'GET https://my.netatmo.com' resulted in a '500 Internal Server Error' response: Error
+* Mise à jour de la gestion des erreurs de connexion (API/Web Netatmo)
+  - Netatmo\Exceptions\NACurlErrorType - 28 - Operation timed out after [xxx] milliseconds with 0 bytes received
+  - GuzzleHttp\\Exception\\ServerException - 500 - Server error: 'GET https://my.netatmo.com' resulted in a '500 Internal Server Error' response: [xxx]
 
 2020-12-03 09:35:18
 -------------------
 
-* Mise à jour de la gestion des erreurs de connexion (API)
+* Mise à jour de la gestion des erreurs de connexion (API Netatmo)
   - Netatmo\Exceptions\NAApiErrorType - 502 - Bad Gateway
-  - Netatmo\Exceptions\NACurlErrorType - 28 - Resolving timed out after 10000 milliseconds
+  - Netatmo\Exceptions\NACurlErrorType - 28 - Resolving timed out after [xxx] milliseconds
 
 2020-12-02 12:10:47
 -------------------
 
-* Mise à jour de la gestion des erreurs de connexion (API/Web)
+* Refonte de la gestion des erreurs de connexion (API/Web Netatmo)
   - Netatmo\Exceptions\NAApiErrorType - 13 - Application does not have the good scope rights
   - Netatmo\Exceptions\NAApiErrorType - 500 - Internal Server Error
   - Netatmo\Exceptions\NAApiErrorType - 503 -
   - Netatmo\Exceptions\NACurlErrorType - 7 - Failed to connect to api.netatmo.com port 443: Connection refused
-  - Netatmo\Exceptions\NACurlErrorType - 28 - Connection timed out after 10000 milliseconds
+  - Netatmo\Exceptions\NACurlErrorType - 28 - Connection timed out after [xxx] milliseconds
   - GuzzleHttp\Exception\ConnectException - 0 - cURL error 7: Failed to connect to app.netatmo.net port 443: Connection refused (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
-  - GuzzleHttp\Exception\ClientException - 403 - Client error: `POST https://xxx` resulted in a `403 Forbidden` response: {"error":{"code":2,"message":"Invalid access token"}}
+  - GuzzleHttp\Exception\ClientException - 403 - Client error: `POST https://[xxx]` resulted in a `403 Forbidden` response: {"error":{"code":2,"message":"Invalid access token"}}
 
 2020-11-14 17:38:13
 -------------------

@@ -63,6 +63,16 @@ Stable
 Beta
 =========================
 
+2020-12-19 21:16:47
+-------------------
+
+* Mise à jour de la gestion des erreurs de connexion (API/Web Netatmo)
+  - Netatmo\Exceptions\NAApiErrorType - 504 - Gateway Time-out
+  - Netatmo\Exceptions\NACurlErrorType - 35 - OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to api.netatmo.com:443
+  - GuzzleHttp\Exception\TooManyRedirectsException - 0 - Will not follow more than 5 redirects
+* Refonte de la gestion du cookie en cas d'erreur lors de la synchronisation par cron5() ou lors de l'éxécution d'une commande
+* Vérification de l'intégrité de l'URL externe défini dans la configuration pour le webhook Netatmo
+
 2020-12-11 17:47:16
 -------------------
 

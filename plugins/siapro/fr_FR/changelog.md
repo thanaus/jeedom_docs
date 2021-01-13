@@ -8,6 +8,11 @@ Stable
 Beta
 =========================
 
+2021-01-13 10:37:01
+-------------------
+* Support de l'alarme Risco Agility
+* Erreur de syntaxe dans un libellé pour le multilingue
+
 2020-09-21 11:29:26
 -------------------
 * Ajout du code SIA 'NP' dans le fichier de description JSON

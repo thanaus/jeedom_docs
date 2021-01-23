@@ -87,3 +87,11 @@ errors.html)
 
 Beta
 =========================
+
+2021-01-23 17:45:02
+-------------------
+
+* Compatibilité Jeedom V4.1 (core)
+* Suppression de 2 commandes obsolètes sur le Aircare / Capteur (NHC)
+  - 'Température (tendance)' / Type INFO  
+  - 'Pression (tendance)' / Type INFO

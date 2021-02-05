@@ -88,6 +88,14 @@ errors.html)
 Beta
 =========================
 
+2021-02-05 13:51:18
+-------------------
+
+* Ajout d'erreurs de connexion (API/Web Netatmo)
+  - Netatmo\Exceptions\NACurlErrorType - 28 - Operation timed out after [xxx] milliseconds with 0 out of 0 bytes received
+  - GuzzleHttp\Exception\ConnectException - 0 - cURL error 7: Failed to connect to app.netatmo.net port 443: Connection timed out (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+  - GuzzleHttp\Exception\ConnectException - 0 - cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to app.netatmo.net:443 (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+
 2021-01-26 09:43:39
 -------------------
 

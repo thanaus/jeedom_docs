@@ -92,8 +92,8 @@ Beta
 -------------------
 
 * Gestion de l'erreur 409 lors de l'activation/désactivation de la caméra (Presence et Welcome)
-  - GuzzleHttp\\Exception\\ClientException - 409 - Client error: `GET https://[...]/command/changestatus?status=off` resulted in a `409 Conflict` response: {"error":{"code":35,"message":"Already off"}} 
-  - GuzzleHttp\\Exception\\ClientException - 409 - Client error: `GET https://[...]/command/changestatus?status=on` resulted in a `409 Conflict` response: {"error":{"code":7,"message":"Already on"}} 
+  - GuzzleHttp\\Exception\\ClientException - 409 - Client error: GET https://[...]/command/changestatus?status=off resulted in a 409 Conflict response: {"error":{"code":35,"message":"Already off"}} 
+  - GuzzleHttp\\Exception\\ClientException - 409 - Client error: GET https://[...]/command/changestatus?status=on resulted in a 409 Conflict response: {"error":{"code":7,"message":"Already on"}} 
 
 2021-02-05 13:51:18
 -------------------

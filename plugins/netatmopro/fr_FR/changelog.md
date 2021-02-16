@@ -99,7 +99,7 @@ Beta
 2021-01-26 09:43:39
 -------------------
 
-* Correction d'un bug sur la gestion du webhook (supression du fichier core/php/.htaccess)
+* Correction d'un bug sur la gestion du webhook (suppression du fichier core/php/.htaccess)
 * Passage en version minimum Jeedom 4.0.63
 
 2021-01-23 17:45:02

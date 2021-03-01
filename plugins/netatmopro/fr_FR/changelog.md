@@ -88,6 +88,11 @@ errors.html)
 Beta
 =========================
 
+2021-03-01 14:58:03
+-------------------
+
+* Modification du sous-type (string vers numeric) pour la commande "Dernière détection" (NAPerson)
+
 2021-02-16 16:11:20
 -------------------
 

@@ -33,7 +33,7 @@ Beta
 2021-12-27 21:42:57
 -------------------
 
-* Suppression du caractère initial '/' (destination) des commandes associés à un équipement de type Dropbox  
+* Suppression du caractère initial '/' du champ destination des commandes associés à un équipement de type Dropbox  
 `error listing: Error in call to API function "files/list_folder": Path root is not supported for sandbox app.`  
 
 2021-12-27 21:42:57

@@ -30,7 +30,7 @@ Stable
 Beta
 =========================
 
-2021-12-27 21:42:57
+2021-12-28 22:09:33
 -------------------
 
 * Suppression du caractère initial '/' du champ destination des commandes associés à un équipement de type Dropbox  

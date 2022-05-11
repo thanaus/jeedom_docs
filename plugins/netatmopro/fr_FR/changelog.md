@@ -88,6 +88,11 @@ errors.html)
 Beta
 =========================
 
+2022-05-11 13:26:10
+-------------------
+
+* Gestion de l'erreur 419 suite à un changement du workflow d'authentification depuis les serveurs Netatmo
+
 2021-03-01 14:58:03
 -------------------
 

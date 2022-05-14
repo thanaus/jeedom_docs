@@ -1,6 +1,25 @@
 Stable
 =========================
 
+XXXX-XX-XX XX:XX:XX
+-------------------
+
+* Passage en version minimum Jeedom 4.0.63
+* Compatibilité Jeedom V4.1 (core)
+* Gestion de l'erreur 419 suite à un changement du workflow d'authentification depuis les serveurs Netatmo
+* Modification du sous-type (string vers numeric) pour la commande "Dernière détection" (NAPerson)
+* Gestion de l'erreur 409 lors de l'activation/désactivation de la caméra (Presence et Welcome)
+  - GuzzleHttp\\Exception\\ClientException - 409 - Client error: GET https://[...]/command/changestatus?status=off resulted in a 409 Conflict response: {"error":{"code":35,"message":"Already off"}} 
+  - GuzzleHttp\\Exception\\ClientException - 409 - Client error: GET https://[...]/command/changestatus?status=on resulted in a 409 Conflict response: {"error":{"code":7,"message":"Already on"}} 
+* Ajout d'erreurs de connexion (API/Web Netatmo)
+  - Netatmo\Exceptions\NACurlErrorType - 28 - Operation timed out after [xxx] milliseconds with 0 out of 0 bytes received
+  - GuzzleHttp\Exception\ConnectException - 0 - cURL error 7: Failed to connect to app.netatmo.net port 443: Connection timed out (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+  - GuzzleHttp\Exception\ConnectException - 0 - cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to app.netatmo.net:443 (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
+* Correction d'un bug sur la gestion du webhook (suppression du fichier core/php/.htaccess)
+* Suppression de 2 commandes obsolètes sur le Aircare / Capteur (NHC)
+  - 'Température (tendance)' / Type INFO  
+  - 'Pression (tendance)' / Type INFO
+
 2021-01-11 16:09:46
 -------------------
 
@@ -88,41 +107,3 @@ errors.html)
 Beta
 =========================
 
-2022-05-11 13:26:10
--------------------
-
-* Gestion de l'erreur 419 suite à un changement du workflow d'authentification depuis les serveurs Netatmo
-
-2021-03-01 14:58:03
--------------------
-
-* Modification du sous-type (string vers numeric) pour la commande "Dernière détection" (NAPerson)
-
-2021-02-16 16:11:20
--------------------
-
-* Gestion de l'erreur 409 lors de l'activation/désactivation de la caméra (Presence et Welcome)
-  - GuzzleHttp\\Exception\\ClientException - 409 - Client error: GET https://[...]/command/changestatus?status=off resulted in a 409 Conflict response: {"error":{"code":35,"message":"Already off"}} 
-  - GuzzleHttp\\Exception\\ClientException - 409 - Client error: GET https://[...]/command/changestatus?status=on resulted in a 409 Conflict response: {"error":{"code":7,"message":"Already on"}} 
-
-2021-02-05 13:51:18
--------------------
-
-* Ajout d'erreurs de connexion (API/Web Netatmo)
-  - Netatmo\Exceptions\NACurlErrorType - 28 - Operation timed out after [xxx] milliseconds with 0 out of 0 bytes received
-  - GuzzleHttp\Exception\ConnectException - 0 - cURL error 7: Failed to connect to app.netatmo.net port 443: Connection timed out (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
-  - GuzzleHttp\Exception\ConnectException - 0 - cURL error 35: OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to app.netatmo.net:443 (see http://curl.haxx.se/libcurl/c/libcurl-errors.html)
-
-2021-01-26 09:43:39
--------------------
-
-* Correction d'un bug sur la gestion du webhook (suppression du fichier core/php/.htaccess)
-* Passage en version minimum Jeedom 4.0.63
-
-2021-01-23 17:45:02
--------------------
-
-* Compatibilité Jeedom V4.1 (core)
-* Suppression de 2 commandes obsolètes sur le Aircare / Capteur (NHC)
-  - 'Température (tendance)' / Type INFO  
-  - 'Pression (tendance)' / Type INFO

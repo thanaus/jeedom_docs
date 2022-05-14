@@ -1,7 +1,7 @@
 Stable
 =========================
 
-XXXX-XX-XX XX:XX:XX
+2022-05-14 10:50:42
 -------------------
 
 * Passage en version minimum Jeedom 4.0.63

@@ -107,6 +107,11 @@ errors.html)
 Beta
 =========================
 
+2022-08-07 20:43:14
+-------------------
+
+* Correction de la validité du cookie suite au changement du workflow d'authentification depuis les serveurs Netatmo
+
 2022-07-31 16:48:06
 -------------------
 

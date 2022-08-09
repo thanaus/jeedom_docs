@@ -1,6 +1,25 @@
 Stable
 =========================
 
+2022-08-09 08:49:27
+-------------------
+
+* Intégration de la Sonnette Vidéo Intelligente (NDB)
+* Correction de la validité du cookie suite au changement du workflow d'authentification depuis les serveurs Netatmo
+* Modification du payload suite à un changement du workflow d'authentification depuis les serveurs Netatmo :
+  - Paramètres (personnes) [NOC]  
+  - Paramètres (voitures) [NOC]  
+  - Paramètres (animaux) [NOC]  
+  - Paramètres (autres mouvements) [NOC]  
+  - Visages inconnus [NACamera]  
+  - Détection de mouvement (Enregistrement) [NACamera]  
+  - Détection de mouvement (Notification) [NACamera]  
+  - Détection alarme [NACamera]  
+  - Smart Notifications (On/Off) [NACamera]  
+  - Calibration [NRV]  
+  - True Temperature [NARoom]  
+  - Mode de fonctionnement [NAPlug]  
+
 2022-05-14 10:50:42
 -------------------
 
@@ -106,26 +125,3 @@ errors.html)
 
 Beta
 =========================
-
-2022-08-07 20:43:14
--------------------
-
-* Correction de la validité du cookie suite au changement du workflow d'authentification depuis les serveurs Netatmo
-
-2022-07-31 16:48:06
--------------------
-
-* Intégration de la Sonnette Vidéo Intelligente (NDB)
-* Modification du payload suite à un changement du workflow d'authentification depuis les serveurs Netatmo :
-  - Paramètres (personnes) [NOC]  
-  - Paramètres (voitures) [NOC]  
-  - Paramètres (animaux) [NOC]  
-  - Paramètres (autres mouvements) [NOC]  
-  - Visages inconnus [NACamera]  
-  - Détection de mouvement (Enregistrement) [NACamera]  
-  - Détection de mouvement (Notification) [NACamera]  
-  - Détection alarme [NACamera]  
-  - Smart Notifications (On/Off) [NACamera]  
-  - Calibration [NRV]  
-  - True Temperature [NARoom]  
-  - Mode de fonctionnement [NAPlug]  

@@ -30,6 +30,15 @@ Stable
 Beta
 =========================
 
+2022-08-29 13:08:59
+-------------------
+
+* Intégration du stockage pCloud
+* Suppression de l'appel à une fonction obsolète (core Jeedom)  
+`https://x.x.x.x/core/php/getResource.php?file=plugins/cloudsyncpro/desktop/js/cloudsyncpro.js&md5=7b33d6301ea5304b040541f419f48b21&lang=fr_FR 
+Ligne 25
+ReferenceError: initCheckBox is not defined`
+
 2021-12-28 22:09:33
 -------------------
 

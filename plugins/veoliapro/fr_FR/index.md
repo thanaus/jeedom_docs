@@ -63,3 +63,7 @@ Il existe 3 commandes que vous pouvez renommer, afficher ou non sur le dashboard
 
 Astuces & FAQ
 =============
+
+**-> Quelle est la fréquence de synchronisation des données ?**
+
+>Lors de l'activation du plugin, une cron spécifique au plugin est ajoutée au moteur de tâches de Jeedom. La synchronisation des données s'effectue une fois par jour et correspond à l'heure d'activation du plugin modulo 5 minutes.

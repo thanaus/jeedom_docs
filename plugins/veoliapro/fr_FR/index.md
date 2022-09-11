@@ -10,6 +10,12 @@ Ce plugin permet de récupérer la consommation d'eau (compteur communicant) dep
 Configuration du plugin 
 =======================
 
+Après installation du plugin, il vous suffit de l’activer. Il faut ensuite rentrer les informations de votre compte Veolia.
+
+-   **Adresse email** : Indiquez l'adresse email de votre compte Veolia
+-   **Mot de passe** : Indiquez le mot de passe de votre compte Veolia
+
+
 Configuration des équipements 
 =============================
 

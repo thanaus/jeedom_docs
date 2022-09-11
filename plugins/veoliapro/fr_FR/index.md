@@ -54,6 +54,11 @@ Onglet Commandes
 
 Il existe 3 commandes que vous pouvez renommer, afficher ou non sur le dashboard et les réorganiser.
 
+-   **Consommation du jour** : consommation du jour (litres)
+
+-   **Consommation facturée** : volume facturée (m<sup>3</sup>)
+
+-   **Index** : consommation cumulée (litres)
 
 
 Astuces & FAQ

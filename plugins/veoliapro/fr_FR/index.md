@@ -35,8 +35,26 @@ Commandes.
 Onglet Equipement
 -----------------
 
+-   **Paramètres généraux / Nom de l’équipement** : nom de votre équipement
+
+-   **Paramètres généraux / Objet parent** : indique l’objet parent auquel appartient l’équipement
+
+-   **Paramètres généraux / Catégorie** : catégorie (couleur) de l'équipement sur le dashboard
+
+-   **Paramètres généraux / Options / Activer** : permet de rendre votre équipement actif
+
+-   **Paramètres généraux / Options / Visible** : le rend visible sur le dashboard
+
+-   **Paramètres spécifiques** : (none)
+
+-   **Informations / Description** : permet d'écrire une description sur l'équipement
+
 Onglet Commandes
 ----------------
+
+Il existe 3 commandes que vous pouvez renommer, afficher ou non sur le dashboard et les réorganiser.
+
+
 
 Astuces & FAQ
 =============

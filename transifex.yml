@@ -1,0 +1,31 @@
+filters:
+    - filter_type: dir
+    file_format: GITHUBMARKDOWN
+    source_file_extension: md
+    source_language: fr
+    source_file_dir: plugins/cloudsyncpro/fr_FR/
+    translation_files_expression: /plugins/cloudsyncpro/<lang>/
+    - filter_type: dir
+    file_format: GITHUBMARKDOWN
+    source_file_extension: md
+    source_language: fr
+    source_file_dir: plugins/gcalendarpro/fr_FR/
+    translation_files_expression: /plugins/gcalendarpro/<lang>/
+    - filter_type: dir
+    file_format: GITHUBMARKDOWN
+    source_file_extension: md
+    source_language: fr
+    source_file_dir: plugins/netatmopro/fr_FR/
+    translation_files_expression: /plugins/netatmopro/<lang>/
+    - filter_type: dir
+    file_format: GITHUBMARKDOWN
+    source_file_extension: md
+    source_language: fr
+    source_file_dir: plugins/siapro/fr_FR/
+    translation_files_expression: /plugins/siapro/<lang>/
+    - filter_type: dir
+    file_format: GITHUBMARKDOWN
+    source_file_extension: md
+    source_language: fr
+    source_file_dir: plugins/veoliapro/fr_FR/
+    translation_files_expression: /plugins/veoliapro/<lang>/	

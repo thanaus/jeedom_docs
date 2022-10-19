@@ -125,3 +125,9 @@ errors.html)
 
 Beta
 =========================
+
+2022-10-19 12:39:26
+-------------------
+
+* Intégration du nouveau système d'authentification Netatmo (OAuth 2.0 Authorization Framework)
+* Incohérence sur le type de batterie (Weather Station / Module additionnel (NAModule4))

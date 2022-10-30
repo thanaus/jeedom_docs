@@ -126,6 +126,11 @@ errors.html)
 Beta
 =========================
 
+2022-10-30 17:46:44
+-------------------
+
+* Correction d'un bug sur la portée des autorisations (OAuth 2.0 Authorization Framework)
+
 2022-10-19 12:39:26
 -------------------
 

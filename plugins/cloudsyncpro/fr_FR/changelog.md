@@ -30,6 +30,11 @@ Stable
 Beta
 =========================
 
+2022-11-18 14:02:43
+-------------------
+
+* Mise à jour du stockage Google Drive (authentification OAuth 2)
+
 2022-10-24 11:15:32
 -------------------
 

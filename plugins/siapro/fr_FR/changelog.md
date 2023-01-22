@@ -10,6 +10,10 @@ Beta
 
 2021-01-13 10:37:01
 -------------------
+* Support de l'alarme Hikvision AX PRO
+
+2021-01-13 10:37:01
+-------------------
 * Support de l'alarme Risco Agility
 * Erreur de syntaxe dans un libellé pour le multilingue
 

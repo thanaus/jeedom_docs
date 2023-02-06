@@ -8,6 +8,10 @@ Stable
 Beta
 =========================
 
+2023-02-06 21:46:23
+-------------------
+* Mise à jour des codes SIA dans le fichier de description JSON
+
 2023-01-22 17:56:47
 -------------------
 * Support de l'alarme Hikvision AX PRO

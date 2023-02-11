@@ -8,6 +8,10 @@ Stable
 Beta
 =========================
 
+2023-02-11 18:53:07
+-------------------
+* Suppression d'une trame interne pour l'alarme Hikvision AX PRO
+
 2023-02-06 21:46:23
 -------------------
 * Mise à jour des codes SIA dans le fichier de description JSON

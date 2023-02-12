@@ -30,6 +30,11 @@ Stable
 Beta
 =========================
 
+2023-02-12 15:30:45
+-------------------
+
+* Mise à jour du stockage Dropbox (authentification OAuth 2)
+
 2022-11-18 14:02:43
 -------------------
 

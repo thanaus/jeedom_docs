@@ -8,6 +8,10 @@ Stable
 Beta
 =========================
 
+2023-03-04 17:25:57
+-------------------
+* Support de l'alarme Ksenia Security
+
 2023-02-11 18:53:07
 -------------------
 * Suppression d'une trame interne pour l'alarme Hikvision AX PRO

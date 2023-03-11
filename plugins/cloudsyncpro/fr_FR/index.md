@@ -80,6 +80,12 @@ Dropbox
 Dropbox est un service de stockage en ligne (ou "cloud storage" en anglais) qui permet aux utilisateurs de stocker, synchroniser et partager des fichiers et des dossiers en ligne. Il a été lancé en 2007 par la société Dropbox Inc.
 Le service Dropbox permet de stocker des fichiers sur des serveurs distants et de les synchroniser automatiquement sur plusieurs appareils, tels que des ordinateurs de bureau, des ordinateurs portables, des smartphones et des tablettes. Les fichiers sont accessibles à partir de n'importe quel appareil connecté à Internet, ce qui facilite leur accès et leur partage.
 
+Pour créer une application Dropbox pour rclone, vous devez suivre les étapes suivantes :
+
+1. Connectez-vous à votre compte Dropbox sur le site web Dropbox et allez sur la page des développeurs de Dropbox en cliquant sur le lien suivant : https://www.dropbox.com/developers
+2. 
+
+
 ![cloudsyncpro](../images/162caa41f06afcf36200c23318e2bcc6.png)
 
 Google Drive

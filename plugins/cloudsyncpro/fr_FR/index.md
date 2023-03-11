@@ -50,7 +50,10 @@ FTP
 FTP (File Transfer Protocol) est un protocole de communication utilisé pour transférer des fichiers entre un client et un serveur sur un réseau informatique. Il permet à un utilisateur d'accéder à un serveur distant, d'afficher la structure de fichiers du serveur et de télécharger ou de téléverser des fichiers.
 FTP utilise un système d'authentification pour permettre l'accès au serveur. Les utilisateurs doivent fournir un nom d'utilisateur et un mot de passe pour accéder au serveur.
 
-![cloudsyncpro](../images/79d739a3a0938015f8de7c6aed3fe715.png)
+Voici les étapes pour configurer un client FTP :
+
+1. Saisissez les informations de votre serveur FTP. Vous aurez besoin de l'adresse IP ou le nom d'hôte de votre serveur FTP, le nom d'utilisateur et le mot de passe.
+2. Configurez les options de port. Par défaut, le port FTP est le port 21
 
 SFTP
 ----
@@ -59,7 +62,10 @@ SFTP signifie Secure File Transfer Protocol (Protocole de transfert de fichiers 
 Contrairement au protocole FTP standard, qui est vulnérable aux interceptions de données et aux attaques par reniflage de paquets, SFTP chiffre toutes les données qui sont transférées entre le client et le serveur, en utilisant un chiffrement basé sur SSH (Secure Shell). Cela rend le protocole SFTP plus sûr et plus fiable pour les transferts de fichiers, surtout si les fichiers contiennent des informations sensibles.
 SFTP utilise également un système d'authentification pour permettre l'accès au serveur. Les utilisateurs doivent fournir un nom d'utilisateur et un mot de passe pour accéder au serveur, tout comme dans le protocole FTP standard.
 
-![cloudsyncpro](../images/768ac996ce21cfc8b1c41beddad9f9e4.png)
+Voici les étapes pour configurer un client SFTP :
+
+1. Saisissez les informations de votre serveur SFTP. Vous aurez besoin de l'adresse IP ou le nom d'hôte de votre serveur SFTP, le nom d'utilisateur et le mot de passe.
+2. Configurez les options de port. Par défaut, le port SFTP est le port 22
 
 Dropbox
 -------

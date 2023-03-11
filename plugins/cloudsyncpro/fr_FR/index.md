@@ -1,3 +1,10 @@
+---
+layout: default
+lang: fr_FR
+title: Plugin CloudSync Pro
+description: Documentation du plugin CloudSync Pro
+---
+
 Synchronisation et transfert de fichiers entre différents services de stockage cloud et systèmes de fichiers locaux.
 
 Présentation Cloudsyncpro

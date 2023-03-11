@@ -23,9 +23,9 @@ Voici les étapes pour activer/configurer le plugin cloudsyncpro :
 
 1. Cliquez sur "Plugin" dans le menu de gauche.
 2. Cliquez sur "Gestion des plugins".
-3. Recherchez le plugin que vous souhaitez activer dans la liste des plugins installés.
-4. Cliquez sur l'icône "Activer" à droite du nom du plugin.
-5. Cliquez sur le bouton "Installer les dépendances" situé à droite du nom du plugin.
+3. Recherchez le plugin CloudSync Pro dans la liste des plugins installés.
+4. Cliquez sur l'icône "Activer" dans le panneau de contrôle "Etat".
+5. Cliquez sur le bouton "Relancer" dans le panneau de contrôle "Dépendances".
 6. Les dépendances du plugin vont s'installer automatiquement. Ce processus peut prendre plusieurs minutes en fonction de la vitesse de votre connexion internet et de la puissance de votre Jeedom.
 7. Une fois que l'installation des dépendances est terminée, vous pouvez configurer et utiliser le plugin normalement.
 
@@ -41,28 +41,8 @@ Voici les étapes générales pour configurer un équipement :
 5. Configurez les paramètres de l'équipement en fonction du type de stockage et de ses options. Les options disponibles varient en fonction du type de stockage.
 6. Cliquez sur le bouton "Sauvegarder" en haut à droite de la page pour enregistrer les paramètres de l'équipement.
 
-Onglet Equipement
------------------
-
--   **Nom de l’équipement** : Nom de votre service de stockage
-
--   **Objet parent** : Indique l’objet parent auquel appartient l’équipement
-
--   **Activer** : Permet de rendre votre équipement actif
-
--   **Visible** : Rend votre équipement visible sur le dashboard
-
--   **Commentaire** : Champ de texte libre
-
--   **Type de stockage** : Type de votre service de stockage
-
-![cloudsyncpro](../images/1b27a7acbb02749f2dc1777ab5ca1686.png)
-
-Onglet Commandes
-----------------
-
-Services de stockage
-====================
+Types de stockage
+=================
 
 FTP
 ---

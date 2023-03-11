@@ -9,7 +9,16 @@ Ce plugin permet d'interfacer cet outil avec Jeedom et simplifier la configurati
 Installation et activation du plugin
 ====================================
 
-Le plugin Cloudsyncpro doit être installé via le market Jeedom.
+Voici les étapes pour installer le plugin cloudsyncpro :
+
+1. Accédez à l'interface d'administration de votre Jeedom en ouvrant votre navigateur web.
+2. Connectez-vous à votre compte Jeedom.
+3. Cliquez sur "Plugin" dans le menu de gauche.
+4. Cliquez sur "Gestion des plugins".
+5. Cliquez sur "Market".
+6. Recherchez le plugin cloudsyncpro et cliquez dessus.
+7. Cliquez sur "Installer stable/beta".
+8. Une fois le plugin installé, vous pouvez le configurer en cliquant sur le bouton "Configurer" dans la page de gestion des plugins.
 
 ![cloudsyncpro](../images/c79bc8a975d6c3d2d6b358fecf424364.png) ![cloudsyncpro](../images/0756e6d2ebb078ad6d6218eb7f877ab8.png)
 

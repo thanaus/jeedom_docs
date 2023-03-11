@@ -32,6 +32,15 @@ Voici les étapes pour activer/configurer le plugin cloudsyncpro :
 Configuration des équipements
 =============================
 
+Voici les étapes générales pour configurer un équipement :
+
+1. Cliquez sur "Plugin" dans le menu de gauche.
+2. Cliquez sur "Communication / CloudSync Pro".
+3. Cliquez sur le bouton "Ajouter un équipement" en haut à gauche.
+4. Donnez un nom à l'équipement dans le champ "Nom".
+5. Configurez les paramètres de l'équipement en fonction du type de stockage et de ses options. Les options disponibles varient en fonction du type de stockage.
+6. Cliquez sur le bouton "Sauvegarder" en haut à droite de la page pour enregistrer les paramètres de l'équipement.
+
 Onglet Equipement
 -----------------
 

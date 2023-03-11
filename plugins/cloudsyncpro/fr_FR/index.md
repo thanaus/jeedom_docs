@@ -18,27 +18,16 @@ Voici les étapes pour installer le plugin cloudsyncpro :
 5. Cliquez sur "Market".
 6. Recherchez le plugin cloudsyncpro et cliquez dessus.
 7. Cliquez sur "Installer stable/beta".
-8. Une fois le plugin installé, vous pouvez le configurer en cliquant sur le bouton "Configurer" dans la page de gestion des plugins.
 
-![cloudsyncpro](../images/c79bc8a975d6c3d2d6b358fecf424364.png) ![cloudsyncpro](../images/0756e6d2ebb078ad6d6218eb7f877ab8.png)
+Voici les étapes pour activer/configurer le plugin cloudsyncpro :
 
-Une fois le plugin installé, il suffit de l’activer en cliquant sur "Activer".
-
-![cloudsyncpro](../images/e49685947a96b7b166fb675155eac787.png)
-
-Installation des dépendances
-----------------------------
-
-Les dépendances sont installées automatiquement par Jeedom dans les 5 min. Elles seront également réinstallées lors d'une mise à jour du plugin si besoin.
-
-![cloudsyncpro](../images/ab08acd6c64a40354c8d3ddc80421ab2.png)
-
-Mise à jour manuelle des dépendances
-------------------------------------
-
-Pour mettre à jour manuellement les dépendances, il faut cliquer sur "Relancer".
-
-![cloudsyncpro](../images/df83599d06ecebbea359557b5efb4dde.png)
+1. Cliquez sur "Plugin" dans le menu de gauche.
+2. Cliquez sur "Gestion des plugins".
+3. Recherchez le plugin que vous souhaitez activer dans la liste des plugins installés.
+4. Cliquez sur l'icône "Activer" à droite du nom du plugin.
+5. Cliquez sur le bouton "Installer les dépendances" situé à droite du nom du plugin.
+6. Les dépendances du plugin vont s'installer automatiquement. Ce processus peut prendre plusieurs minutes en fonction de la vitesse de votre connexion internet et de la puissance de votre Jeedom.
+7. Une fois que l'installation des dépendances est terminée, vous pouvez configurer et utiliser le plugin normalement.
 
 Configuration des équipements
 =============================

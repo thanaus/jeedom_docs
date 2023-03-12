@@ -83,10 +83,11 @@ Le service Dropbox permet de stocker des fichiers sur des serveurs distants et d
 Pour créer une application Dropbox pour rclone, vous devez suivre les étapes suivantes :
 
 1. Connectez-vous à Dropbox Developer Console à l'adresse :  
-https://www.dropbox.com/developers/apps/create.
+https://www.dropbox.com/developers/apps/create
 2. Choisissez "Scoped access" et sélectionnez le type d'application que vous souhaitez créer.
 3. Donnez un nom à votre application et cliquez sur "Create App".
-4. Dans la section "OAuth 2", ajoutez l'URL de redirection pour votre application. Il s'agit de l'URL vers laquelle Dropbox redirigera l'utilisateur après l'authentification.
+4. Dans la section "Settings/OAuth 2", ajoutez l'URL de redirection pour votre application. Il s'agit de l'URL vers laquelle Dropbox redirigera l'utilisateur après l'authentification. Votre Jeedom doit être accessible depuis l'extérieur de votre réseau local (protocole HTTPS). Cet URL d'accès externe à Jeedom dépend de votre configuration de réseau et de votre serveur. La structure de l'URL doit être de la forme suivante :
+https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php
 5. Dans la section "Permissions", sélectionnez les permissions dont votre application aura besoin. Les permissions (ou autorisations) qui doivent être accordées pour permettre à rclone d'accéder à Dropbox sont les suivantes :  
     - files.metadata.write  
     - files.content.write  

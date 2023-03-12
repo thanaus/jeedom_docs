@@ -82,30 +82,6 @@ Le service Dropbox permet de stocker des fichiers sur des serveurs distants et d
 
 Pour créer une application Dropbox pour rclone, vous devez suivre les étapes suivantes :
 
-1. Connectez-vous à Dropbox Developer Console à l'adresse :  
-https://www.dropbox.com/developers/apps/create.
-2. Choisissez "Scoped access" et sélectionnez le type d'application que vous souhaitez créer.
-3. Donnez un nom à votre application et cliquez sur "Create App".
-4. Dans la section "OAuth 2", ajoutez l'URL de redirection pour votre application. Il s'agit de l'URL vers laquelle Dropbox redirigera l'utilisateur après l'authentification.
-5. Dans la section "Permissions", sélectionnez les permissions dont votre application aura besoin. Les permissions (ou autorisations) qui doivent être accordées pour permettre à rclone d'accéder à Dropbox sont les suivantes :
-6. Enregistrez les modifications.
-7. Dans la section "OAuth 2", générez un jeton d'accès en cliquant sur "Generate" à côté de "Access token".
-8. Copiez le jeton d'accès et collez-le dans
-
-
-    - "files.metadata.write" : cette permission permet à rclone de modifier les métadonnées des fichiers et des dossiers dans Dropbox, telles que les noms de fichiers et les dates de modification.
-    - "files.content.write" : cette permission permet à rclone d'écrire le contenu des fichiers dans Dropbox.
-    - "files.content.read" : cette permission permet à rclone de lire le contenu des fichiers dans Dropbox.
-    - "sharing.write" : cette permission permet à rclone d'accéder et de modifier les liens de partage existants et de créer de nouveaux liens de partage pour les fichiers et les dossiers.
-
-
-
-
-
-
-
-![cloudsyncpro](../images/162caa41f06afcf36200c23318e2bcc6.png)
-
 Google Drive
 ------------
 

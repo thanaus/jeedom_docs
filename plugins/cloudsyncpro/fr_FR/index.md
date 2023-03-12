@@ -31,8 +31,8 @@ Voici les étapes pour activer/configurer le plugin cloudsyncpro :
 1. Cliquez sur "Plugin" dans le menu de gauche.
 2. Cliquez sur "Gestion des plugins".
 3. Recherchez le plugin CloudSync Pro dans la liste des plugins installés.
-4. Cliquez sur l'icône "Activer" dans le panneau de contrôle "Etat".
-5. Cliquez sur le bouton "Relancer" dans le panneau de contrôle "Dépendances".
+4. Cliquez sur l'icône "Activer" dans la section "Etat".
+5. Cliquez sur le bouton "Relancer" dans la section "Dépendances".
 6. Les dépendances du plugin vont s'installer automatiquement. Ce processus peut prendre plusieurs minutes en fonction de la vitesse de votre connexion internet et de la puissance de votre Jeedom.
 7. Une fois que l'installation des dépendances est terminée, vous pouvez configurer et utiliser le plugin normalement.
 

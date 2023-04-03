@@ -12,4 +12,4 @@ Beta
 2023-04-03 21:50:02
 -------------------
 
-* Gestion des caractères spéciaux pour le mot de passe du compte Veolia
+* Correction d'un bug sur la gestion du mot de passe du compte Veolia (caractères spéciaux)

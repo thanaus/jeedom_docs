@@ -2,6 +2,8 @@
 
 [Cloudsyncpro](https://thanaus.github.io/jeedom_docs/plugins/cloudsyncpro/fr_FR/)
 
+[Emporiapro](https://thanaus.github.io/jeedom_docs/plugins/emporiapro/fr_FR/)
+
 [GCalendarpro](https://thanaus.github.io/jeedom_docs/plugins/gcalendarpro/fr_FR/)
 
 [Netatmopro](https://thanaus.github.io/jeedom_docs/plugins/netatmopro/fr_FR/)

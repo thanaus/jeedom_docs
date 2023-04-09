@@ -20,7 +20,7 @@ Voici les étapes pour installer le plugin emporiapro :
 
 1. Accédez à l'interface d'administration de votre Jeedom en ouvrant votre navigateur web.
 2. Connectez-vous à votre compte Jeedom.
-3. Cliquez sur "Plugin" dans le menu de gauche.
+3. Cliquez sur "Plugins" dans le menu principale.
 4. Cliquez sur "Gestion des plugins".
 5. Cliquez sur "Market".
 6. Recherchez le plugin emporiapro et cliquez dessus.

@@ -5,65 +5,34 @@ title: Plugin Emporia Pro
 description: Documentation du plugin Emporia Pro
 ---
 
-Ce plugin permet de récupérer la consommation d'eau (compteur communicant) depuis le site "Veolia & moi - Eau"
+Monitoring de consommation d'énergie en temps réel (Gen 2 Vue Energy Monitor)
 
-Configuration du plugin 
+Présentation EmporiaPro
 =======================
+The Gen 2 Vue Energy Monitor est un moniteur de consommation d'énergie qui permet de surveiller la consommation électrique de votre maison en temps réel. Il mesure la consommation d'énergie en kilowattheures (kWh) et vous permet de voir la quantité d'énergie consommée par différents appareils électriques dans votre maison. Il dispose également d'une fonctionnalité de suivi de l'historique de la consommation d'énergie, vous permettant de voir l'évolution de votre consommation électrique au fil du temps.
 
-Après installation du plugin, il vous suffit de l’activer. Il faut ensuite rentrer les informations de votre compte Veolia.
+Ce plugin permet d'interfacer ce moniteur de consommation d'énergie avec Jeedom.
 
--   **Adresse email** : Indiquez l'adresse email de votre compte Veolia
--   **Mot de passe** : Indiquez le mot de passe de votre compte Veolia
+Installation et activation du plugin
+====================================
 
-Configuration des équipements 
-=============================
+Voici les étapes pour installer le plugin emporiapro :
 
-La configuration des équipements Veolia est accessible à partir du menu plugins puis Energie. Vous retrouvez ici :
+1. Accédez à l'interface d'administration de votre Jeedom en ouvrant votre navigateur web.
+2. Connectez-vous à votre compte Jeedom.
+3. Cliquez sur "Plugin" dans le menu de gauche.
+4. Cliquez sur "Gestion des plugins".
+5. Cliquez sur "Market".
+6. Recherchez le plugin emporiapro et cliquez dessus.
+7. Cliquez sur "Installer stable/beta".
 
--   un bouton pour la synchronisation de vos équipements depuis votre compte Veolia
+Voici les étapes pour activer/configurer le plugin emporiapro :
 
--   un bouton pour afficher la configuration du plugin
+1. Cliquez sur "Plugin" dans le menu de gauche.
+2. Cliquez sur "Gestion des plugins".
+3. Recherchez le plugin Emporia Pro dans la liste des plugins installés.
+4. Cliquez sur l'icône "Activer" dans la section "Etat".
+5. Cliquez sur le bouton "Relancer" dans la section "Dépendances".
+6. Les dépendances du plugin vont s'installer automatiquement. Ce processus peut prendre plusieurs minutes en fonction de la vitesse de votre connexion internet et de la puissance de votre Jeedom.
+7. Une fois que l'installation des dépendances est terminée, vous pouvez configurer et utiliser le plugin normalement.
 
--   la liste de vos équipements Veolia
-
-Equipement
-==========
-
-En cliquant sur un de vos équipements, vous arrivez sur la page de configuration de votre équipement comprenant 2 onglets: Equipement et
-Commandes.
-
-Onglet Equipement
------------------
-
--   **Paramètres généraux / Nom de l’équipement** : nom de votre équipement
-
--   **Paramètres généraux / Objet parent** : indique l’objet parent auquel appartient l’équipement
-
--   **Paramètres généraux / Catégorie** : catégorie (couleur) de l'équipement sur le dashboard
-
--   **Paramètres généraux / Options / Activer** : permet de rendre votre équipement actif
-
--   **Paramètres généraux / Options / Visible** : le rend visible sur le dashboard
-
--   **Paramètres spécifiques** : (none)
-
--   **Informations / Description** : permet d'écrire une description sur l'équipement
-
-Onglet Commandes
-----------------
-
-Il existe 3 commandes que vous pouvez renommer, afficher ou non sur le dashboard et les réorganiser.
-
--   **Consommation du jour** : consommation du jour (litres)
-
--   **Consommation facturée** : volume facturée (m<sup>3</sup>)
-
--   **Index** : consommation cumulée (litres)
-
-
-Astuces & FAQ
-=============
-
-**-> Quelle est la fréquence de synchronisation des données ?**
-
->Lors de l'activation du plugin, une cron spécifique au plugin est ajoutée au moteur de tâches de Jeedom. La synchronisation des données s'effectue une fois par jour et correspond à l'heure d'activation du plugin modulo 5 minutes.

@@ -7,8 +7,8 @@ description: Documentation du plugin Emporia Pro
 
 Monitoring de consommation d'énergie en temps réel (Gen 2 Vue Energy Monitor)
 
-Présentation EmporiaPro
-=======================
+Présentation Emporia Pro
+========================
 The Gen 2 Vue Energy Monitor est un moniteur de consommation d'énergie qui permet de surveiller la consommation électrique de votre maison en temps réel. Il mesure la consommation d'énergie en kilowattheures (kWh) et vous permet de voir la quantité d'énergie consommée par différents appareils électriques dans votre maison. Il dispose également d'une fonctionnalité de suivi de l'historique de la consommation d'énergie, vous permettant de voir l'évolution de votre consommation électrique au fil du temps.
 
 Ce plugin permet d'interfacer ce moniteur de consommation d'énergie avec Jeedom.

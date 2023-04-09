@@ -45,4 +45,8 @@ ReferenceError: initCheckBox is not defined`
 Beta
 =========================
 
+2023-04-09 15:26:26
+-------------------
 
+* Mise à jour du framework Rclone (version 1.62.2)
+* Actualisation automatique des identifiants (OAuth 2) associés au stockage Google Drive

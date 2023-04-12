@@ -135,8 +135,12 @@ Voici les étapes à suivre pour créer un projet dans Google Cloud Console :
 La structure de l'URL doit être de la forme suivante :  
 [https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php](https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php)
 25. Cliquez sur le bouton "Create" (Créer) pour créer les credentials.
-
-
+26. Copiez votre "Client ID" (ID client) et votre "Client secret" (Code secret du client) et utilisez-les pour configurer votre équipement dans votre Jeedom.
+27. Cliquez sur "Ok"
+28. Dans le menu de gauche, cliquez sur "OAuth consent screen" (Écran de consentement OAuth).
+29. Cliquez sur le bouton "Publish App" ()
+30. Cliquez sur "Confirm" ()
+31. Cliquez sur "Association Google Drive" pour lier votre application Google Drive à votre Jeedom.
 
 Nextcloud
 ---------

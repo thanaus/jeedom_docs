@@ -129,7 +129,7 @@ Voici les étapes à suivre pour créer un projet dans Google Cloud Console :
 La structure de l'URI doit être de la forme suivante :  
 [https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php](https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php)
 25. Cliquez sur le bouton "Create" (Créer) pour créer les identifiants.
-26. Copiez votre "Client ID" (ID client) et votre "Client secret" (Code secret du client) puis cliquez sur "Ok".
+26. Copiez votre "Client ID" (ID client) et votre "Client secret" (Code secret du client) puis cliquez sur "Ok" dans la fenêtre contextuelle qui s'affiche.
 28. Dans le menu de gauche, cliquez sur "OAuth consent screen" (Écran de consentement OAuth).
 29. Cliquez sur le bouton "Publish App" () puis sur "Confirm" () dans la fenêtre contextuelle qui s'affiche.
 

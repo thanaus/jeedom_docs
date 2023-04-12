@@ -120,6 +120,21 @@ Voici les étapes à suivre pour créer un projet dans Google Cloud Console :
 10. Recherchez "Google Drive API" en utilisant la barre de recherche en haut de la page.
 11. Cliquez sur "Google Drive API" dans les résultats de recherche.
 12. Cliquez sur le bouton "Enable" (Activer) pour activer l'API pour votre projet.
+13. Dans le menu de gauche, cliquez sur "OAuth consent screen" (Écran de consentement OAuth).
+14. Sélectionnez "External" (Externe) pour le type de consentement.
+15. Cliquez sur "Create" (Créer) pour créer votre écran de consentement Oauth.
+16. Saisissez le nom de votre application dans le champ "Application Name" (Nom de l'application).
+17. Dans la section "Support email" (Adresse e-mail d'assistance), choisissez votre adresse e-mail.
+18. Dans la section "Developer contact information" (Coordonnées du développeur), indiquez votre adresse e-mail.
+19. Cliquez sur "Save and Continue" (Enregistrer et continuer).
+20. Dans le menu de gauche, cliquez sur "Credentials" (Identifiants).
+21. Dans le tableau de bord, cliquez sur "Create Credentials" (Créer des identifiants) et choisissez "OAuth client ID" dans le menu déroulant.
+22. Sélectionnez "Web application" (Application Web) comme type d'application.
+23. Entrez un nom pour votre application.
+24. Dans la section "Authorized redirect URIs" (URI de redirection autorisées), ajoutez l'URI de redirection pour votre application. Il s'agit de l'URI vers laquelle Google Drive redirigera l'utilisateur après l'authentification. Votre Jeedom doit être accessible depuis l'extérieur de votre réseau local (protocole HTTPS). Cette URL d'accès externe à Jeedom dépend de votre configuration de réseau et de votre serveur.  
+La structure de l'URL doit être de la forme suivante :  
+[https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php](https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php)
+
 
 
 Nextcloud

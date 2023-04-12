@@ -110,8 +110,7 @@ Voici les étapes à suivre pour créer un projet dans Google Cloud Console :
 [https://console.cloud.google.com/](https://console.cloud.google.com/)
 2. Si vous n'avez jamais créé de projet sur la console Cloud, cliquez sur "Select a project" (Sélectionner un projet) en haut de la page.
 3. Cliquez sur "New Project" (Nouveau projet) dans la fenêtre contextuelle qui s'affiche.
-4. Dans la fenêtre "New Project", donnez un nom à votre projet.
-5. Si vous le souhaitez, vous pouvez également ajouter un identifiant de projet personnalisé. Sinon, un identifiant de projet sera généré automatiquement pour vous.
+4. Dans la fenêtre "New Project", donnez un nom à votre projet. Si vous le souhaitez, vous pouvez également ajouter un identifiant de projet personnalisé. Sinon, un identifiant de projet sera généré automatiquement pour vous.
 7. Cliquez sur "Create" (Créer) pour créer votre projet.
 8. Dans le menu de gauche, cliquez sur "APIs & Services" (APIs et services).
 9. Dans le tableau de bord, cliquez sur "Enable APIs and Services" (Activer les APIs et services).

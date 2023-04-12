@@ -139,8 +139,7 @@ La structure de l'URL doit être de la forme suivante :
 27. Cliquez sur "Ok"
 28. Dans le menu de gauche, cliquez sur "OAuth consent screen" (Écran de consentement OAuth).
 29. Cliquez sur le bouton "Publish App" ()
-30. Cliquez sur "Confirm" ()
-31. Cliquez sur "Association Google Drive" pour lier votre application Google Drive à votre Jeedom.
+30. Cliquez sur "Confirm" () dans la fenêtre contextuelle qui s'affiche.
 
 Nextcloud
 ---------

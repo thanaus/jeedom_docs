@@ -92,10 +92,10 @@ Pour créer une application Dropbox pour rclone, vous devez suivre les étapes s
     - files.content.write  
     - files.content.read  
     - sharing.write
+6. Cliquez sur Submit pour enregistrer les modifications.
 6. Cliquez sur l'onglet "Settings" et ajoutez l'URL de redirection pour votre application. Il s'agit de l'URL vers laquelle Dropbox redirigera l'utilisateur après l'authentification. Votre Jeedom doit être accessible depuis l'extérieur de votre réseau local (protocole HTTPS). Cette URL d'accès externe à Jeedom dépend de votre configuration de réseau et de votre serveur.  
 La structure de l'URL doit être de la forme suivante :  
 [https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php](https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php)
-7. Enregistrez les modifications.
 8. Copiez votre clé d'application "App key" et votre secret d'application "App secret".
 
 Google Drive

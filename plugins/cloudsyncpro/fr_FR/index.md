@@ -134,6 +134,7 @@ Voici les étapes à suivre pour créer un projet dans Google Cloud Console :
 24. Dans la section "Authorized redirect URIs" (URI de redirection autorisées), ajoutez l'URI de redirection pour votre application. Il s'agit de l'URI vers laquelle Google Drive redirigera l'utilisateur après l'authentification. Votre Jeedom doit être accessible depuis l'extérieur de votre réseau local (protocole HTTPS). Cette URL d'accès externe à Jeedom dépend de votre configuration de réseau et de votre serveur.  
 La structure de l'URL doit être de la forme suivante :  
 [https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php](https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php)
+25. Cliquez sur le bouton "Create" (Créer) pour créer les credentials.
 
 
 

@@ -110,28 +110,28 @@ Voici les étapes à suivre pour créer un projet dans Google Cloud Console :
 [https://console.cloud.google.com/](https://console.cloud.google.com/)
 2. Si vous n'avez jamais créé de projet sur la console Cloud, cliquez sur "Select a project" (Sélectionner un projet) en haut de la page.
 3. Cliquez sur "New Project" (Nouveau projet) dans la fenêtre contextuelle qui s'affiche.
-4. Dans la fenêtre "New Project", donnez un nom à votre projet. Si vous le souhaitez, vous pouvez également ajouter un identifiant de projet personnalisé. Sinon, un identifiant de projet sera généré automatiquement pour vous.
+4. Dans la fenêtre "New Project" (Nouveau projet), donnez un nom à votre projet. Si vous le souhaitez, vous pouvez également ajouter un identifiant de projet personnalisé. Sinon, un identifiant de projet sera généré automatiquement pour vous.
 7. Cliquez sur "Create" (Créer) pour créer votre projet.
 8. Dans le menu de gauche, cliquez sur "APIs and services" (APIs et services).
-9. Dans le tableau de bord, cliquez sur "Enable APIs and Services" (Activer les APIs et services).
+9. Dans le tableau de bord, cliquez sur "Enable APIs and Services" (Activer les APIs et les services).
 10. Recherchez "Google Drive API" en utilisant la barre de recherche en haut de la page.
 11. Cliquez sur "Google Drive API" dans les résultats de recherche.
 12. Cliquez sur "Enable" (Activer) pour activer l'API pour votre projet.
 13. Dans le menu de gauche, cliquez sur "OAuth consent screen" (Écran de consentement OAuth).
-14. Sélectionnez "External" (Externe) pour le type de consentement puis cliquez sur "Create" (Créer) pour créer votre écran de consentement Oauth.
-16. Dans la section "App information" (), saisissez le nom de votre application dans le champ "App Name" (Nom de l'application) et sélectionnez votre adresse e-mail dans le champ "User support email" (Adresse e-mail d'assistance).
-18. Dans la section "Developer contact information" (Coordonnées du développeur), indiquez votre adresse e-mail dans le champ "Email addresses" ().
+14. Sélectionnez "External" (Externes) pour le type de consentement puis cliquez sur "Create" (Créer) pour créer votre écran de consentement Oauth.
+16. Dans la section "App information" (Informations sur l'application), saisissez le nom de votre application dans le champ "App Name" (Nom de l'application) et sélectionnez votre adresse e-mail dans le champ "User support email" (Adresse e-mail d'assistance utilisateur).
+18. Dans la section "Developer contact information" (Coordonnées du développeur), indiquez votre adresse e-mail dans le champ "Email addresses" (Adresses e-mail).
 19. Cliquez sur "Save and Continue" (Enregistrer et continuer).
 20. Dans le menu de gauche, cliquez sur "Credentials" (Identifiants).
-21. Dans le tableau de bord, cliquez sur "Create Credentials" (Créer des identifiants) et choisissez "OAuth client ID" dans le menu déroulant.
+21. Dans le tableau de bord, cliquez sur "Create Credentials" (Créer des identifiants) et choisissez "OAuth client ID" (ID client OAuth) dans le menu déroulant.
 22. Sélectionnez "Web application" (Application Web) comme type d'application et donnez un nom à votre application.
-24. Dans la section "Authorized redirect URIs" (URI de redirection autorisées), ajoutez l'URI de redirection pour votre application. Il s'agit de l'URI vers laquelle Google Drive redirigera l'utilisateur après l'authentification. Votre Jeedom doit être accessible depuis l'extérieur de votre réseau local (protocole HTTPS). Cette URI d'accès externe à Jeedom dépend de votre configuration de réseau et de votre serveur.  
+24. Dans la section "Authorized redirect URIs" (URI de redirection autorisés), ajoutez l'URI de redirection pour votre application. Il s'agit de l'URI vers laquelle Google Drive redirigera l'utilisateur après l'authentification. Votre Jeedom doit être accessible depuis l'extérieur de votre réseau local (protocole HTTPS). Cette URI d'accès externe à Jeedom dépend de votre configuration de réseau et de votre serveur.  
 La structure de l'URI doit être de la forme suivante :  
 [https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php](https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php)
 25. Cliquez sur le bouton "Create" (Créer) pour créer les identifiants.
-26. Copiez votre "Client ID" (ID client) et votre "Client secret" (Code secret du client) puis cliquez sur "Ok" dans la fenêtre contextuelle qui s'affiche.
+26. Copiez votre "Client ID" (ID client) et votre "Client secret" (Code secret du client) dans la fenêtre contextuelle qui s'affiche puis cliquez sur "Ok" .
 28. Dans le menu de gauche, cliquez sur "OAuth consent screen" (Écran de consentement OAuth).
-29. Cliquez sur le bouton "Publish App" () puis sur "Confirm" () dans la fenêtre contextuelle qui s'affiche.
+29. Cliquez sur le bouton "Publish App" (Publier l'Application) puis sur "Confirm" (Confirmer) dans la fenêtre contextuelle qui s'affiche.
 
 Nextcloud
 ---------

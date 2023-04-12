@@ -106,7 +106,16 @@ Google Drive
 Google Drive est un service de stockage en ligne (ou "cloud storage" en anglais) créé par Google en 2012. Il permet aux utilisateurs de stocker, synchroniser et partager des fichiers et des dossiers en ligne.
 Avec Google Drive, les utilisateurs peuvent stocker des fichiers sur des serveurs distants et y accéder à partir de n'importe quel appareil connecté à Internet, comme un ordinateur de bureau, un ordinateur portable, un smartphone ou une tablette. Les fichiers sont synchronisés automatiquement sur tous les appareils, ce qui facilite leur accès et leur partage.
 
-![cloudsyncpro](../images/ac2bbda15c853d03741c379cdf497dd0.png)
+Voici les étapes à suivre pour créer un projet dans Google Cloud Console :
+
+1. Connectez-vous à votre compte Google et accédez à la page "Google Cloud Console" :  
+[https://console.cloud.google.com/](https://console.cloud.google.com/)
+2. Si vous n'avez jamais créé de projet sur la console Cloud, cliquez sur "Select a project" (Sélectionner un projet) en haut de la page.
+3. Cliquez sur "New Project" (Nouveau projet) dans la fenêtre contextuelle qui s'affiche.
+4. Dans la fenêtre "New Project", donnez un nom à votre projet.
+5. Si vous le souhaitez, vous pouvez également ajouter un identifiant de projet personnalisé. Sinon, un identifiant de projet sera généré automatiquement pour vous.
+7. Cliquez sur "Create" (Créer) pour créer votre projet.
+
 
 Nextcloud
 ---------

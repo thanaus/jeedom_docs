@@ -85,20 +85,18 @@ Pour créer une application Dropbox pour rclone, vous devez suivre les étapes s
 1. Connectez-vous à Dropbox Developer Console à l'adresse :  
 [https://www.dropbox.com/developers/apps/create](https://www.dropbox.com/developers/apps/create)
 2. Choisissez l'option "Scoped access" (Accès limité) pour limiter les permissions de votre application.
-3. Sélectionnez l'option "Full dropbox" (Dropbox complet) ou "App folder" (Dossier de l'application) en fonction de vos besoins.
-4. Donnez un nom à votre application et cliquez sur "Create App".
-5. Dans la section "Settings/OAuth 2", ajoutez l'URL de redirection pour votre application. Il s'agit de l'URL vers laquelle Dropbox redirigera l'utilisateur après l'authentification. Votre Jeedom doit être accessible depuis l'extérieur de votre réseau local (protocole HTTPS). Cette URL d'accès externe à Jeedom dépend de votre configuration de réseau et de votre serveur.  
-La structure de l'URL doit être de la forme suivante :  
-[https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php](https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php)
-5. Dans la section "Permissions", sélectionnez les permissions dont votre application aura besoin. Les permissions (ou autorisations) qui doivent être accordées pour permettre à rclone d'accéder à Dropbox sont les suivantes :  
+3. Sélectionnez l'option "App folder" (Dossier de l'application) ou "Full dropbox" (Dropbox complet) en fonction de vos besoins.
+4. Donnez un nom à votre application et cliquez sur "Create app".
+5. Cliquez sur l'onglet "Permissions" et sélectionnez les permissions dont votre application aura besoin. Les permissions (ou autorisations) qui doivent être accordées pour permettre à rclone d'accéder à Dropbox sont les suivantes :  
     - files.metadata.write  
     - files.content.write  
     - files.content.read  
     - sharing.write
-6. Enregistrez les modifications.
-7. Copiez votre clé d'application "Settings/App key" et votre secret d'application "Settings/App secret" et utilisez-les pour configurer votre équipement dans votre Jeedom.
-8. Sauvegardez les modifications.
-9. Cliquez sur "Association Dropbox" pour lier votre application Dropbox à votre Jeedom.
+6. Cliquez sur l'onglet "Settings" et ajoutez l'URL de redirection pour votre application. Il s'agit de l'URL vers laquelle Dropbox redirigera l'utilisateur après l'authentification. Votre Jeedom doit être accessible depuis l'extérieur de votre réseau local (protocole HTTPS). Cette URL d'accès externe à Jeedom dépend de votre configuration de réseau et de votre serveur.  
+La structure de l'URL doit être de la forme suivante :  
+[https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php](https://exemple.com/plugins/cloudsyncpro/core/php/CSRedirectURI.php)
+7. Enregistrez les modifications.
+8. Copiez votre clé d'application "App key" et votre secret d'application "App secret".
 
 Google Drive
 ------------

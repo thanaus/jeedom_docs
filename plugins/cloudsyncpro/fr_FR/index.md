@@ -148,6 +148,8 @@ OneDrive
 OneDrive est un service de stockage en ligne de fichiers créé par Microsoft en 2007. Il permet aux utilisateurs de stocker des fichiers et des dossiers en ligne, de les synchroniser sur plusieurs appareils et de les partager avec d'autres personnes.
 OneDrive offre aux utilisateurs un espace de stockage en ligne gratuit de 5 Go, qui peut être étendu en achetant un abonnement payant pour un stockage supplémentaire. Les utilisateurs peuvent accéder à leurs fichiers stockés sur OneDrive à partir de n'importe quel appareil connecté à Internet, y compris des ordinateurs, des smartphones et des tablettes.
 
+![cloudsyncpro](../images/e3b0c3b27d4ecf1848eda0d1509db5f3ad5800cd.gif)
+
 pCloud
 ------
 

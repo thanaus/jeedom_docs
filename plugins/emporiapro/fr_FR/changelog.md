@@ -4,7 +4,7 @@ Stable
 Beta
 =========================
 
-2023-05-02 15:55:29
+2023-05-11 16:28:46
 -------------------
 * Gestion des erreurs non fatales (API Emporia)
 

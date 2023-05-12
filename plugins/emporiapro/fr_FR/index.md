@@ -58,7 +58,7 @@ Voici les étapes pour configurer les équipement :
 La page du plugin Emporia Pro dans Jeedom est divisée en deux sections principales :
 
 - La section "Gestion"  
-Cette section vous permet de configurer les paramètres de votre plugin Emporia Pro, notamment les informations d'identification de votre compte
+Cette section vous permet de configurer les paramètres de votre plugin Emporia Pro, notamment les informations d'identification de votre compte Emporia.
 
 - La section "Mes équipements"  
 Cette section répertorie tous les circuits de votre équipement Emporia.  
@@ -79,13 +79,13 @@ En cliquant sur un de vos équipements, vous arrivez sur la page de configuratio
 - Numéro de série : c'est un numéro unique qui identifie l'équipement.
 - Firmware : il s'agit de la version du logiciel embarqué dans l'équipement. Le firmware peut être mis à jour par l'application officielle Emporira pour corriger des bugs ou ajouter des fonctionnalités.
 - Numéro du circuit : il s'agit du numéro du circuit de l'équipement.
-- Description : 
+- Description : il s'agit d'un champ permettant à l'utilisateur de saisir une description personnalisée afin de faciliter l'identification et la compréhension de sa fonction ou de son utilisation.
 
 ## Onglet Commandes
 
 Voici la liste des commandes disponibles pour un équipement Emporia Pro dans Jeedom :
 
-- Consommation électrique (minute) : il s'agit de la consommation électrique par minute consommée par le circuit en une minute. 
+- Consommation électrique (minute) : il s'agit de la consommation électrique consommée par le circuit en une minute. L'unité de mesure est le Watts.
 - Consommation électrique (heure) : **TBD**
 - Consommation électrique (jour) : **TBD**
 - Consommation électrique (semaine) : **TBD**

@@ -63,10 +63,16 @@ En cliquant sur un de vos équipements, vous arrivez sur la page configuration d
 Onglet Equipement
 -----------------
 
+# Paramètres généraux
+
 - Nom de l'équipement : c'est le nom que vous avez donné à l'équipement lors de sa création dans l'application officielle Emporia. Vous pouvez le modifier à tout moment en cliquant sur le champ de texte correspondant.
 - Objet parent : il s'agit de l'objet parent auquel l'équipement est rattaché dans votre organisation d'objets. Vous pouvez modifier l'objet parent en sélectionnant un nouvel objet dans la liste déroulante.
 - Catégorie : c'est la catégorie à laquelle l'équipement est rattaché dans votre organisation de catégories. Vous pouvez modifier la catégorie en sélectionnant une nouvelle catégorie.
 - Options : cette section contient diverses options de configuration pour l'équipement, telles que la possibilité de désactiver temporairement l'équipement, de rendre visible le widget sur le dashboard
+
+# Paramètres spécifiques
+
+# Informations
 
 Onglet Commandes
 ----------------

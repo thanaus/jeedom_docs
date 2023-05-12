@@ -26,7 +26,7 @@ Voici les étapes pour installer le plugin emporiapro :
 6. Recherchez le plugin emporiapro et cliquez dessus.
 7. Cliquez sur "Installer stable/beta".
 
-Voici les étapes pour activer/configurer le plugin emporiapro :
+Voici les étapes pour activer le plugin emporiapro :
 
 1. Cliquez sur "Plugins" dans le menu principal.
 2. Cliquez sur "Gestion des plugins".
@@ -36,3 +36,13 @@ Voici les étapes pour activer/configurer le plugin emporiapro :
 6. Les dépendances du plugin vont s'installer automatiquement. Ce processus peut prendre plusieurs minutes en fonction de la vitesse de votre connexion internet et de la puissance de votre Jeedom.
 7. Une fois que l'installation des dépendances est terminée, vous pouvez configurer et utiliser le plugin normalement.
 
+Configuration du plugin
+====================================
+
+Voici les étapes pour configurer le plugin emporiapro :
+
+1. Accédez à l'interface d'administration de votre Jeedom en ouvrant votre navigateur web.
+2. Connectez-vous à votre compte Jeedom.
+3. Cliquez sur "Plugins" dans le menu principal.
+5. Cliquez sur "Gestion des plugins".
+7. Recherchez le plugin Emporia Pro dans la liste des plugins installés.

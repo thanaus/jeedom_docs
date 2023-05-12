@@ -85,7 +85,8 @@ En cliquant sur un de vos équipements, vous arrivez sur la page de configuratio
 
 Voici la liste des commandes disponibles pour un équipement Emporia Pro dans Jeedom :
 
-- Consommation électrique (minute) : il s'agit de la consommation électrique consommée par le circuit en une minute. L'unité de mesure est le Watts.
+- Consommation électrique (minute) : il s'agit de la consommation électrique consommée par le circuit en une minute.  
+L'unité de mesure est le Watts.
 - Consommation électrique (heure) : **TBD**
 - Consommation électrique (jour) : **TBD**
 - Consommation électrique (semaine) : **TBD**

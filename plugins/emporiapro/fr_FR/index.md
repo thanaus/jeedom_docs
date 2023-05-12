@@ -63,7 +63,17 @@ En cliquant sur un de vos équipements, vous arrivez sur la page configuration d
 Onglet Equipement
 -----------------
 
+- Nom de l'équipement : c'est le nom que vous avez donné à l'équipement lors de sa création dans l'application officielle Emporia. Vous pouvez le modifier à tout moment en cliquant sur le champ de texte correspondant.
+- Objet parent : il s'agit de l'objet parent auquel l'équipement est rattaché dans votre organisation d'objets. Vous pouvez modifier l'objet parent en sélectionnant un nouvel objet dans la liste déroulante.
+- Catégorie : c'est la catégorie à laquelle l'équipement est rattaché dans votre organisation de catégories. Vous pouvez modifier la catégorie en sélectionnant une nouvelle catégorie.
+- Options : cette section contient diverses options de configuration pour l'équipement, telles que la possibilité de désactiver temporairement l'équipement, de rendre visible le widget sur le dashboard
+
 Onglet Commandes
 ----------------
 
-
+- ID : il s'agit de l'identifiant unique de la commande. Cet ID est généré automatiquement par Jeedom lors de la création de la commande.
+- Nom : c'est le nom de la commande défini lors de sa création. Ce nom peut être modifié à tout moment en cliquant sur le champ de texte correspondant.
+- Type : c'est le type de commande. Par exemple, une commande peut être de type "Action", "Info", "Curseur", "Liste", etc. Le type de commande détermine les options de configuration disponibles pour cette commande.
+- Options : cette colonne affiche les options de configuration pour la commande, qui peuvent varier en fonction du type de commande.
+- État : cette colonne affiche l'état actuel de la commande. Pour les commandes de type "Info", l'état peut être un texte ou une valeur numérique. Pour les commandes de type "Action", l'état indique si la commande a été exécutée avec succès ou non.
+- Actions : cette colonne peut afficher des boutons pour exécuter des actions supplémentaires sur la commande, telles que la configuration avancée ou la suppression de la commande.

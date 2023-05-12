@@ -7,14 +7,13 @@ description: Documentation du plugin Emporia Pro
 
 Monitoring de consommation d'énergie en temps réel (Gen 2 Vue Energy Monitor)
 
-Présentation Emporia Pro
-========================
+# Présentation Emporia Pro
+
 The Gen 2 Vue Energy Monitor est un moniteur de consommation d'énergie qui permet de surveiller la consommation électrique de votre maison en temps réel. Il mesure la consommation d'énergie en kilowattheures (kWh) et vous permet de voir la quantité d'énergie consommée par différents appareils électriques dans votre maison. Il dispose également d'une fonctionnalité de suivi de l'historique de la consommation d'énergie, vous permettant de voir l'évolution de votre consommation électrique au fil du temps.
 
 Ce plugin permet d'interfacer ce moniteur de consommation d'énergie avec Jeedom.
 
-Installation et activation du plugin
-====================================
+# Installation et activation du plugin
 
 Voici les étapes pour installer le plugin emporiapro :
 
@@ -36,8 +35,7 @@ Voici les étapes pour activer le plugin emporiapro :
 6. Les dépendances du plugin vont s'installer automatiquement. Ce processus peut prendre plusieurs minutes en fonction de la vitesse de votre connexion internet et de la puissance de votre Jeedom.
 7. Une fois que l'installation des dépendances est terminée, vous pouvez configurer et utiliser le plugin normalement.
 
-Configuration du plugin
-=======================
+# Configuration du plugin
 
 Voici les étapes pour configurer le plugin emporiapro :
 
@@ -48,8 +46,7 @@ Voici les étapes pour configurer le plugin emporiapro :
 5. Recherchez le plugin Emporia Pro dans la liste des plugins installés.
 6. Saisissez les informations de votre compte Emporia dans la section "Configuration". Vous aurez besoin de l'adresse email et le mot de passe.
 
-Configuration des équipements
-=============================
+# Configuration des équipements
 
 Voici les étapes pour configurer les équipement :
 
@@ -60,22 +57,20 @@ Voici les étapes pour configurer les équipement :
 
 En cliquant sur un de vos équipements, vous arrivez sur la page configuration de votre équipement comprenant 2 onglets.
 
-Onglet Equipement
------------------
+## Onglet Equipement
 
-# Paramètres généraux
+### Paramètres généraux
 
 - Nom de l'équipement : c'est le nom que vous avez donné à l'équipement lors de sa création dans l'application officielle Emporia. Vous pouvez le modifier à tout moment en cliquant sur le champ de texte correspondant.
 - Objet parent : il s'agit de l'objet parent auquel l'équipement est rattaché dans votre organisation d'objets. Vous pouvez modifier l'objet parent en sélectionnant un nouvel objet dans la liste déroulante.
 - Catégorie : c'est la catégorie à laquelle l'équipement est rattaché dans votre organisation de catégories. Vous pouvez modifier la catégorie en sélectionnant une nouvelle catégorie.
 - Options : cette section contient diverses options de configuration pour l'équipement, telles que la possibilité de désactiver temporairement l'équipement, de rendre visible le widget sur le dashboard
 
-# Paramètres spécifiques
+### Paramètres spécifiques
 
-# Informations
+### Informations
 
-Onglet Commandes
-----------------
+## Onglet Commandes
 
 - ID : il s'agit de l'identifiant unique de la commande. Cet ID est généré automatiquement par Jeedom lors de la création de la commande.
 - Nom : c'est le nom de la commande défini lors de sa création. Ce nom peut être modifié à tout moment en cliquant sur le champ de texte correspondant.

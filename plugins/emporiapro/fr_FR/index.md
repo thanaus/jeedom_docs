@@ -37,12 +37,33 @@ Voici les étapes pour activer le plugin emporiapro :
 7. Une fois que l'installation des dépendances est terminée, vous pouvez configurer et utiliser le plugin normalement.
 
 Configuration du plugin
-====================================
+=======================
 
 Voici les étapes pour configurer le plugin emporiapro :
 
 1. Accédez à l'interface d'administration de votre Jeedom en ouvrant votre navigateur web.
 2. Connectez-vous à votre compte Jeedom.
 3. Cliquez sur "Plugins" dans le menu principal.
-5. Cliquez sur "Gestion des plugins".
-7. Recherchez le plugin Emporia Pro dans la liste des plugins installés.
+4. Cliquez sur "Gestion des plugins".
+5. Recherchez le plugin Emporia Pro dans la liste des plugins installés.
+6. Saisissez les informations de votre compte Emporia dans la section "Configuration". Vous aurez besoin de l'adresse email et le mot de passe.
+
+Configuration des équipements
+=============================
+
+Voici les étapes pour configurer les équipement :
+
+1. Accédez à l'interface d'administration de votre Jeedom en ouvrant votre navigateur web.
+2. Connectez-vous à votre compte Jeedom.
+3. Cliquez sur "Plugins" dans le menu principal.
+4. Cliquez sur "Energie" puis "Emporia Energy".
+
+En cliquant sur un de vos équipements, vous arrivez sur la page configuration de votre équipement comprenant 2 onglets.
+
+Onglet Equipement
+-----------------
+
+Onglet Commandes
+----------------
+
+

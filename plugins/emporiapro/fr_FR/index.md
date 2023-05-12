@@ -15,17 +15,17 @@ Ce plugin permet d'interfacer ce moniteur de consommation d'énergie avec Jeedom
 
 # Installation et activation du plugin
 
-Voici les étapes pour installer le plugin emporiapro :
+Voici les étapes pour installer le plugin Emporia Pro :
 
 1. Accédez à l'interface d'administration de votre Jeedom en ouvrant votre navigateur web.
 2. Connectez-vous à votre compte Jeedom.
 3. Cliquez sur "Plugins" dans le menu principal.
 4. Cliquez sur "Gestion des plugins".
 5. Cliquez sur "Market".
-6. Recherchez le plugin emporiapro et cliquez dessus.
+6. Recherchez le plugin Emporia Pro et cliquez dessus.
 7. Cliquez sur "Installer stable/beta".
 
-Voici les étapes pour activer le plugin emporiapro :
+Voici les étapes pour activer le plugin Emporia Pro :
 
 1. Cliquez sur "Plugins" dans le menu principal.
 2. Cliquez sur "Gestion des plugins".
@@ -37,7 +37,7 @@ Voici les étapes pour activer le plugin emporiapro :
 
 # Configuration du plugin
 
-Voici les étapes pour configurer le plugin emporiapro :
+Voici les étapes pour configurer le plugin Emporia Pro :
 
 1. Accédez à l'interface d'administration de votre Jeedom en ouvrant votre navigateur web.
 2. Connectez-vous à votre compte Jeedom.
@@ -55,7 +55,14 @@ Voici les étapes pour configurer les équipement :
 3. Cliquez sur "Plugins" dans le menu principal.
 4. Cliquez sur "Energie" puis "Emporia Energy".
 
-En cliquant sur un de vos équipements, vous arrivez sur la page configuration de votre équipement comprenant 2 onglets.
+La page du plugin Emporia Pro dans Jeedom est divisée en deux sections principales :
+
+- La section "Gestion"  
+Cette section vous permet de configurer les paramètres de votre plugin Emporia Pro, notamment les informations d'identification de votre compte
+
+- La section "Mes équipements"  
+Cette section répertorie tous les circuits de votre équipement Emporia.  
+En cliquant sur un de vos équipements, vous arrivez sur la page de configuration de votre équipement comprenant 2 onglets.
 
 ## Onglet Equipement
 
@@ -76,7 +83,7 @@ En cliquant sur un de vos équipements, vous arrivez sur la page configuration d
 
 ## Onglet Commandes
 
-Voici la liste des commandes disponibles pour un équipement Emporia dans Jeedom :
+Voici la liste des commandes disponibles pour un équipement Emporia Pro dans Jeedom :
 
 - Consommation électrique (minute) : il s'agit de la consommation électrique par minute consommée par le circuit en une minute. 
 - Consommation électrique (heure) : **TBD**

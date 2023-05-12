@@ -78,7 +78,7 @@ En cliquant sur un de vos équipements, vous arrivez sur la page configuration d
 
 Voici la liste des commandes disponibles pour un équipement Emporia dans Jeedom :
 
-- Consommation électrique (minute) : 
+- Consommation électrique (minute) : il s'agit de la consommation électrique par minute consommée par le circuit en une minute. 
 - Consommation électrique (heure) : **TBD**
 - Consommation électrique (jour) : **TBD**
 - Consommation électrique (semaine) : **TBD**

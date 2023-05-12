@@ -71,7 +71,7 @@ En cliquant sur un de vos équipements, vous arrivez sur la page configuration d
 - Modèle : il s'agit du modèle de l'équipement, tel que spécifié par le fabricant.
 - Numéro de série : c'est un numéro unique qui identifie l'équipement.
 - Firmware : il s'agit de la version du logiciel embarqué dans l'équipement. Le firmware peut être mis à jour par l'application officielle Emporira pour corriger des bugs ou ajouter des fonctionnalités.
-- Numéro du circuit : 
+- Numéro du circuit : il s'agit du numéro du circuit de l'équipement.
 - Description : 
 
 ## Onglet Commandes

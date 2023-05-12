@@ -78,6 +78,17 @@ En cliquant sur un de vos équipements, vous arrivez sur la page configuration d
 
 ## Onglet Commandes
 
+Voici la liste des commandes disponibles pour un équipement Emporia dans Jeedom :
+
+- Consommation électrique (minute) : 
+- Consommation électrique (heure) : **TBD**
+- Consommation électrique (jour) : **TBD**
+- Consommation électrique (semaine) : **TBD**
+- Consommation électrique (mois) : **TBD**
+- Consommation électrique (année) : **TBD**
+
+Voici la liste des informations disponibles pour chaque commande :
+
 - ID : il s'agit de l'identifiant unique de la commande. Cet ID est généré automatiquement par Jeedom lors de la création de la commande.
 - Nom : c'est le nom de la commande défini lors de sa création. Ce nom peut être modifié à tout moment en cliquant sur le champ de texte correspondant.
 - Type : c'est le type de commande. Par exemple, une commande peut être de type "Action", "Info", "Curseur", "Liste", etc. Le type de commande détermine les options de configuration disponibles pour cette commande.

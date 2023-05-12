@@ -64,7 +64,7 @@ Cette section vous permet de configurer les paramètres de votre plugin Emporia 
 Cette section répertorie tous les circuits de votre équipement Emporia.  
 En cliquant sur un de vos équipements, vous arrivez sur la page de configuration de votre équipement comprenant 2 onglets.
 
->Dans le cas de l'équipement Emporia, ajout automatique de deux équipements :
+> Dans le cas du plugin Emporia Pro, ajout automatique de deux équipements :
 > - le circuit électrique principal de la maison ou du bâtiment pour mesurer la consommation totale d'énergie.
 > - la balance qui mesure la différence entre l'énergie électrique entrant dans le circuit principal et l'énergie électrique consommée par les circuits secondaires.
 

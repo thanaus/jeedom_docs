@@ -66,8 +66,6 @@ En cliquant sur un de vos équipements, vous arrivez sur la page configuration d
 - Catégorie : c'est la catégorie à laquelle l'équipement est rattaché dans votre organisation de catégories. Vous pouvez modifier la catégorie en sélectionnant une nouvelle catégorie.
 - Options : cette section contient diverses options de configuration pour l'équipement, telles que la possibilité de désactiver temporairement l'équipement, de rendre visible le widget sur le dashboard
 
-### Paramètres spécifiques
-
 ### Informations
 
 - Modèle : il s'agit du modèle de l'équipement, tel que spécifié par le fabricant.

@@ -4,6 +4,10 @@ Stable
 Beta
 =========================
 
+2023-05-23 14:30:18
+-------------------
+* Correction sur la gestion des dépendances Python (pyudev et pyserial)
+
 2023-05-12 22:42:40
 -------------------
 * Suppression de l'ajout manuel d'un équipement dans la section "Gestion" du plugin

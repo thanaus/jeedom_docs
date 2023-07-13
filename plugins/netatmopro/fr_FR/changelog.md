@@ -1,6 +1,13 @@
 Stable
 =========================
 
+2023-07-13 09:09:18
+-------------------
+
+* Intégration du nouveau système d'authentification Netatmo (OAuth 2.0 Authorization Framework)
+* Correction d'un bug sur la portée des autorisations (OAuth 2.0 Authorization Framework)
+* Incohérence sur le type de batterie (Weather Station / Module additionnel (NAModule4))
+
 2022-08-09 08:49:27
 -------------------
 
@@ -125,14 +132,3 @@ errors.html)
 
 Beta
 =========================
-
-2022-10-30 17:46:44
--------------------
-
-* Correction d'un bug sur la portée des autorisations (OAuth 2.0 Authorization Framework)
-
-2022-10-19 12:39:26
--------------------
-
-* Intégration du nouveau système d'authentification Netatmo (OAuth 2.0 Authorization Framework)
-* Incohérence sur le type de batterie (Weather Station / Module additionnel (NAModule4))

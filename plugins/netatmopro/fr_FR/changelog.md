@@ -132,3 +132,8 @@ errors.html)
 
 Beta
 =========================
+
+2023-08-16 14:57:45
+-------------------
+
+* Optimisation des requêtes et suppression du third-party Netatmo pour la partie Weather + Aircare

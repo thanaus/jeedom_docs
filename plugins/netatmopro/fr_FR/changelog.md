@@ -133,6 +133,11 @@ errors.html)
 Beta
 =========================
 
+2024-02-07 22:57:53
+-------------------
+
+* Optimisation des requêtes et suppression du third-party Netatmo pour la partie Home + Security
+
 2023-08-16 14:57:45
 -------------------
 

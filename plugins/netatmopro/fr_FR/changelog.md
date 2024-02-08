@@ -137,6 +137,7 @@ Beta
 -------------------
 
 * Optimisation des requêtes et suppression du third-party Netatmo pour la partie Home + Security
+* Intégration du Détecteur de Monoxyde de Carbone Intelligent (NCO)
 
 2023-08-16 14:57:45
 -------------------

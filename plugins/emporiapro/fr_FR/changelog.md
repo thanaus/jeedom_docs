@@ -3,6 +3,7 @@ Stable
 
 Beta
 =========================
+
 2024-03-14 09:38:38
 -------------------
 * Correction suite à l'évolution de la librarie python PyEmVue

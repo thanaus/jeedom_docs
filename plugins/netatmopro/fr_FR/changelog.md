@@ -1,6 +1,13 @@
 Stable
 =========================
 
+2024-06-05 11:18:59
+-------------------
+
+* Optimisation des requêtes et suppression du third-party Netatmo pour la partie Weather + Aircare
+* Optimisation des requêtes et suppression du third-party Netatmo pour la partie Home + Security
+* Intégration du Détecteur de Monoxyde de Carbone Intelligent (NCO)
+
 2023-07-13 09:09:18
 -------------------
 
@@ -132,14 +139,3 @@ errors.html)
 
 Beta
 =========================
-
-2024-02-07 22:57:53
--------------------
-
-* Optimisation des requêtes et suppression du third-party Netatmo pour la partie Home + Security
-* Intégration du Détecteur de Monoxyde de Carbone Intelligent (NCO)
-
-2023-08-16 14:57:45
--------------------
-
-* Optimisation des requêtes et suppression du third-party Netatmo pour la partie Weather + Aircare

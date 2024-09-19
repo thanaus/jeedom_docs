@@ -139,3 +139,8 @@ errors.html)
 
 Beta
 =========================
+
+2024-09-19 22:42:15
+-------------------
+
+* Correction d'un bug sur la mise à jour du jeton d'authentification

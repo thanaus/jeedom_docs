@@ -1,6 +1,12 @@
 Stable
 =========================
 
+2024-09-27 11:20:39
+-------------------
+
+* Correction d'un bug sur la mise à jour du jeton d'authentification
+* Correction d'un bug sur la mise à jour des éléments de configuration (NAMain et NHC)
+
 2024-06-05 11:18:59
 -------------------
 
@@ -140,12 +146,4 @@ errors.html)
 Beta
 =========================
 
-2024-09-20 22:14:22
--------------------
 
-* Correction d'un bug sur la mise à jour des éléments de configuration (NAMain et NHC)
-
-2024-09-19 22:42:15
--------------------
-
-* Correction d'un bug sur la mise à jour du jeton d'authentification

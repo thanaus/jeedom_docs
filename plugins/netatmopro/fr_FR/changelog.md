@@ -146,4 +146,8 @@ errors.html)
 Beta
 =========================
 
+2020-04-24 14:56:58
+-------------------
 
+* Ajout d'erreurs de connexion (API/Web Netatmo)
+  - GuzzleHttp\Exception\ServerException - 500 - Server error: 'GET https://app.netatmo.net/api/[xxx]' resulted in a '500 Internal Server Error' response: [xxx]

@@ -146,7 +146,7 @@ errors.html)
 Beta
 =========================
 
-2020-04-24 14:56:58
+2024-11-24 21:22:21
 -------------------
 
 * Ajout d'erreurs de connexion (API/Web Netatmo)

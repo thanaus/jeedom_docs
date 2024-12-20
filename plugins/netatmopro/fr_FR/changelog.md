@@ -146,6 +146,11 @@ errors.html)
 Beta
 =========================
 
+2024-12-20 14:32:05
+-------------------
+
+* Modification de la sévérité du message en cas d'erreur lors de la synchronisation des équipements
+
 2024-11-24 21:22:21
 -------------------
 

@@ -45,6 +45,11 @@ ReferenceError: initCheckBox is not defined`
 Beta
 =========================
 
+2024-12-22 17:43:42
+-------------------
+
+* Mise à jour du framework Rclone (version 1.68.2)
+
 2023-04-09 15:26:26
 -------------------
 

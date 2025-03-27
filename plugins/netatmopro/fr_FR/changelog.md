@@ -146,6 +146,11 @@ errors.html)
 Beta
 =========================
 
+2025-03-27 21:43:52
+-------------------
+
+* Optimisation des requêtes et suppression du third-party Netatmo pour la partie Energy (Etape 1)
+
 2024-12-20 14:32:05
 -------------------
 

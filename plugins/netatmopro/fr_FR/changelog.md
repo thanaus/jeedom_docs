@@ -146,7 +146,7 @@ errors.html)
 Beta
 =========================
 
-
+2025-07-16 10:43:16
 -------------------
 
 * Correction d'un bug sur les commandes "A la maison" & "Ailleurs" (NAPerson) et "Niveau d\'alerte maximum" (NACamera)  

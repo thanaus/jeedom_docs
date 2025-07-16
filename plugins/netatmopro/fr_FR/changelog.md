@@ -146,6 +146,12 @@ errors.html)
 Beta
 =========================
 
+
+-------------------
+
+* Correction d'un bug sur les commandes "A la maison" & "Ailleurs" (NAPerson) et "Niveau d\'alerte maximum" (NACamera)  
+`execute:: ex:'Netatmo\\Exceptions\\NAApiErrorType - 400 - bad request'`
+
 2025-06-23 17:44:19
 -------------------
 

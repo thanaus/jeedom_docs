@@ -1,6 +1,17 @@
 Stable
 =========================
 
+2025-07-18 10:12:23
+-------------------
+
+* Correction d'un bug sur les commandes "A la maison" & "Ailleurs" (NAPerson) et "Niveau d\'alerte maximum" (NACamera)  
+`execute:: ex:'Netatmo\\Exceptions\\NAApiErrorType - 400 - bad request'`
+* Compatibilité Jeedom V4.5 (core)
+* Optimisation des requêtes et suppression du third-party Netatmo pour la partie Energy (Etape 1)
+* Modification de la sévérité du message en cas d'erreur lors de la synchronisation des équipements
+* Ajout d'erreurs de connexion (API/Web Netatmo)
+  - GuzzleHttp\Exception\ServerException - 500 - Server error: 'GET https://app.netatmo.net/api/[xxx]' resulted in a '500 Internal Server Error' response: [xxx]
+
 2024-09-27 11:20:39
 -------------------
 
@@ -146,29 +157,4 @@ errors.html)
 Beta
 =========================
 
-2025-07-16 10:43:16
--------------------
 
-* Correction d'un bug sur les commandes "A la maison" & "Ailleurs" (NAPerson) et "Niveau d\'alerte maximum" (NACamera)  
-`execute:: ex:'Netatmo\\Exceptions\\NAApiErrorType - 400 - bad request'`
-
-2025-06-23 17:44:19
--------------------
-
-* Compatibilité Jeedom V4.5 (core)
-
-2025-03-27 21:43:52
--------------------
-
-* Optimisation des requêtes et suppression du third-party Netatmo pour la partie Energy (Etape 1)
-
-2024-12-20 14:32:05
--------------------
-
-* Modification de la sévérité du message en cas d'erreur lors de la synchronisation des équipements
-
-2024-11-24 21:22:21
--------------------
-
-* Ajout d'erreurs de connexion (API/Web Netatmo)
-  - GuzzleHttp\Exception\ServerException - 500 - Server error: 'GET https://app.netatmo.net/api/[xxx]' resulted in a '500 Internal Server Error' response: [xxx]

@@ -157,4 +157,8 @@ errors.html)
 Beta
 =========================
 
+2025-07-21 14:23:06
+-------------------
+
+Intégration de la Caméra Intérieure ADVANCE (NPC)
 

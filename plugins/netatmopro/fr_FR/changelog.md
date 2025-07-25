@@ -157,8 +157,15 @@ errors.html)
 Beta
 =========================
 
+2025-07-25 16:24:19
+-------------------
+
+* Correction d'un bug sur les commandes "Planning" (NAPlug) et "Manual Boost" (NARoom)  
+`execute:: ex:'Netatmo\\Exceptions\\NAApiErrorType - 400 - bad request'`
+* Ajout du widget pour la visualisation du stream de la Caméra Intérieure ADVANCE
+
 2025-07-21 14:23:06
 -------------------
 
-Intégration de la Caméra Intérieure ADVANCE (NPC)
+* Intégration de la Caméra Intérieure ADVANCE (NPC)
 

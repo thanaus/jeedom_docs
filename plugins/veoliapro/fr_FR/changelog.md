@@ -12,7 +12,7 @@ Stable
 Beta
 =========================
 
-2022-09-15 13:37:18
+2025-07-31 16:50:28
 -------------------
 * Compatibilité Jeedom V4.5 (core)
 * Compatibilite PHP V8.2

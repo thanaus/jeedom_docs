@@ -12,3 +12,8 @@ Stable
 Beta
 =========================
 
+2022-09-15 13:37:18
+-------------------
+* Compatibilité Jeedom V4.5 (core)
+* Compatibilite PHP V8.2
+* Optimisation des requêtes dans la base de données (table history) 

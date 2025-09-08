@@ -157,6 +157,12 @@ errors.html)
 Beta
 =========================
 
+2025-09-08 14:11:44
+-------------------
+
+* Changement du nom de domaine lié à l'API Netatmo  
+`we will be retiring the domain api.netatmo.net and consolidating all API traffic under the existing domain api.netatmo.com`
+
 2025-07-25 16:24:19
 -------------------
 

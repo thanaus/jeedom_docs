@@ -160,7 +160,7 @@ Beta
 2025-10-06 11:17:56
 -------------------
 
-* Correction d'un bug sur les commandes "Mode de chauffage" (NAPlug)
+* Correction d'un bug sur les commandes "Mode de chauffage" (NAPlug)  
 `execute:: ex:'Netatmo\\Exceptions\\NAApiErrorType - 400 - bad request'`
 
 2025-09-08 14:11:44

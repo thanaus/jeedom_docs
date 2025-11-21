@@ -12,6 +12,10 @@ Stable
 Beta
 =========================
 
+2025-11-21 15:13:18
+-------------------
+* Compatibilité avec le nouveau site Veolia
+
 2025-07-31 16:50:28
 -------------------
 * Compatibilité Jeedom V4.5 (core)

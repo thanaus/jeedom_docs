@@ -45,6 +45,11 @@ ReferenceError: initCheckBox is not defined`
 Beta
 =========================
 
+2025-11-27 14:59:53
+-------------------
+
+* Modification de la sévérité du message lors de l'exécution d'une commande
+
 2024-12-22 17:43:42
 -------------------
 

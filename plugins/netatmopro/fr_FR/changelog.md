@@ -172,7 +172,7 @@ Beta
 2025-11-27 14:27:08
 -------------------
 
-* Modification de la sévérité du message en cas d'erreur lors de l'exécution d'une commande
+* Modification de la sévérité du message lors de l'exécution d'une commande
 
 2025-10-06 11:17:56
 -------------------

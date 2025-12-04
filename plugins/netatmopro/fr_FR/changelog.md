@@ -169,6 +169,12 @@ errors.html)
 Beta
 =========================
 
+2025-12-04 11:15:24
+-------------------
+
+* Modification de la sévérité du message en cas d'erreur lors de la synchronisation des équipements
+* Gestion automatique de la compatibilité (release) du package Guzzle
+
 2025-11-27 14:27:08
 -------------------
 

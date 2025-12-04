@@ -173,28 +173,3 @@ Beta
 -------------------
 
 * Modification de la sévérité du message lors de l'exécution d'une commande
-
-2025-10-06 11:17:56
--------------------
-
-* Correction d'un bug sur les commandes "Mode de chauffage" (NAPlug)  
-`execute:: ex:'Netatmo\\Exceptions\\NAApiErrorType - 400 - bad request'`
-
-2025-09-08 14:11:44
--------------------
-
-* Changement du nom de domaine lié à l'API Netatmo  
-`we will be retiring the domain api.netatmo.net and consolidating all API traffic under the existing domain api.netatmo.com`
-
-2025-07-25 16:24:19
--------------------
-
-* Correction d'un bug sur les commandes "Planning" (NAPlug) et "Manual Boost" (NARoom)  
-`execute:: ex:'Netatmo\\Exceptions\\NAApiErrorType - 400 - bad request'`
-* Ajout du widget pour la visualisation du stream de la Caméra Intérieure ADVANCE
-
-2025-07-21 14:23:06
--------------------
-
-* Intégration de la Caméra Intérieure ADVANCE (NPC)
-

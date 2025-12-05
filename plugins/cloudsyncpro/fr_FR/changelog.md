@@ -45,6 +45,12 @@ ReferenceError: initCheckBox is not defined`
 Beta
 =========================
 
+2025-12-05 16:56:55
+-------------------
+
+* Compatibilité Jeedom V4.5 (core)
+* Mise à jour du framework Rclone (version 1.72.0)
+
 2025-11-27 14:59:53
 -------------------
 

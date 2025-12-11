@@ -169,6 +169,11 @@ errors.html)
 Beta
 =========================
 
+2025-12-11 17:11:57
+-------------------
+
+* Correction d'un bug sur la gestion automatique de la compatibilité (release) du package Guzzle
+  
 2025-12-04 11:15:24
 -------------------
 

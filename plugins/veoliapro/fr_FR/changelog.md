@@ -12,6 +12,10 @@ Stable
 Beta
 =========================
 
+2025-12-12 17:10:20
+-------------------
+* Compatibilité avec la nouvelle méthode d'authentification (Amazon)
+  
 2025-11-21 15:13:18
 -------------------
 * Compatibilité avec le nouveau site Veolia

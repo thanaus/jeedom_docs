@@ -1,9 +1,14 @@
 Stable
 =========================
 
+2025-12-13 18:51:02
+-------------------
+* Modification de la sévérité du message en cas d'erreur lors de la synchronisation des équipements
+* Gestion automatique de la compatibilité (release) du package Guzzle
+* Modification de la sévérité du message lors de l'exécution d'une commande
+
 2025-10-13 09:40:09
 -------------------
-
 * Intégration de la Caméra Intérieure ADVANCE (NPC)
 * Ajout du widget pour la visualisation du stream de la Caméra Intérieure ADVANCE
 * Correction d'un bug sur les commandes "Mode de chauffage" (NAPlug)  
@@ -15,7 +20,6 @@ Stable
 
 2025-07-18 10:12:23
 -------------------
-
 * Correction d'un bug sur les commandes "A la maison" & "Ailleurs" (NAPerson) et "Niveau d\'alerte maximum" (NACamera)  
 `execute:: ex:'Netatmo\\Exceptions\\NAApiErrorType - 400 - bad request'`
 * Compatibilité Jeedom V4.5 (core)
@@ -26,27 +30,23 @@ Stable
 
 2024-09-27 11:20:39
 -------------------
-
 * Correction d'un bug sur la mise à jour du jeton d'authentification
 * Correction d'un bug sur la mise à jour des éléments de configuration (NAMain et NHC)
 
 2024-06-05 11:18:59
 -------------------
-
 * Optimisation des requêtes et suppression du third-party Netatmo pour la partie Weather + Aircare
 * Optimisation des requêtes et suppression du third-party Netatmo pour la partie Home + Security
 * Intégration du Détecteur de Monoxyde de Carbone Intelligent (NCO)
 
 2023-07-13 09:09:18
 -------------------
-
 * Intégration du nouveau système d'authentification Netatmo (OAuth 2.0 Authorization Framework)
 * Correction d'un bug sur la portée des autorisations (OAuth 2.0 Authorization Framework)
 * Incohérence sur le type de batterie (Weather Station / Module additionnel (NAModule4))
 
 2022-08-09 08:49:27
 -------------------
-
 * Intégration de la Sonnette Vidéo Intelligente (NDB)
 * Correction de la validité du cookie suite au changement du workflow d'authentification depuis les serveurs Netatmo
 * Modification du payload suite à un changement du workflow d'authentification depuis les serveurs Netatmo :
@@ -65,7 +65,6 @@ Stable
 
 2022-05-14 10:50:42
 -------------------
-
 * Passage en version minimum Jeedom 4.0.63
 * Compatibilité Jeedom V4.1 (core)
 * Gestion de l'erreur 419 suite à un changement du workflow d'authentification depuis les serveurs Netatmo
@@ -84,7 +83,6 @@ Stable
 
 2021-01-11 16:09:46
 -------------------
-
 * Refonte de la gestion du cookie en cas d'erreur lors de la synchronisation par cron5() ou lors de l'éxécution d'une commande
 * Vérification de l'intégrité de l'URL externe défini dans la configuration pour le webhook Netatmo
 * Exclusion des stations météo en favoris
@@ -109,7 +107,6 @@ errors.html)
 
 2020-11-14 17:11:42
 -------------------
-
 * Refresh automatique des widgets personnalisés sur le dashboard :
   - Weather Station / Module intérieur (NAMain)  
   - Weather Station / Module extérieur (NAModule1)  
@@ -124,7 +121,6 @@ errors.html)
 
 2020-06-06 17:32:06
 -------------------
-
 * Intégration du Détecteur de Fumée Intelligent (NSD)
 * Intégration de la Sirène Intérieure Intelligente (NIS)
 * Intégration des Détecteurs d’Ouverture Intelligents pour Portes et Fenêtres (NACamDoorTag)
@@ -150,7 +146,6 @@ errors.html)
 
 2020-04-24 14:56:58
 -------------------
-
 * Compatibilité Jeedom V4 (core)
 * Mise à jour du widget au design V4 Jeedom :  
   - Weather Station / Module intérieur (NAMain)  
@@ -169,18 +164,3 @@ errors.html)
 Beta
 =========================
 
-2025-12-11 17:11:57
--------------------
-
-* Correction d'un bug sur la gestion automatique de la compatibilité (release) du package Guzzle
-  
-2025-12-04 11:15:24
--------------------
-
-* Modification de la sévérité du message en cas d'erreur lors de la synchronisation des équipements
-* Gestion automatique de la compatibilité (release) du package Guzzle
-
-2025-11-27 14:27:08
--------------------
-
-* Modification de la sévérité du message lors de l'exécution d'une commande

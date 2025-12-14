@@ -3,7 +3,6 @@ Stable
 
 2023-03-03 19:20:37
 -------------------
-
 * Mise à jour du framework Rclone (version 1.57.0)
 * Mise à jour du stockage Dropbox (authentification OAuth 2)
 * Mise à jour du stockage Google Drive (authentification OAuth 2)
@@ -18,7 +17,6 @@ ReferenceError: initCheckBox is not defined`
 
 2020-04-06 03:14:16
 -------------------
-
 * Mise à jour du fichier info.json suite à un bug du core Jeedom (remplacement du tag #language# par fr_FR)  
 [https://community.jeedom.com/t/description-plugin-info-json/22513](https://community.jeedom.com/t/description-plugin-info-json/22513)
 * Evolution cosmétique (largeur du champ 'Commentaire')
@@ -26,12 +24,10 @@ ReferenceError: initCheckBox is not defined`
 
 2020-02-18 03:14:15
 -------------------
-
 * Mise à jour du Market (Jeedom)
 
 2020-01-21 19:44:13
 -------------------
-
 * Support de PHP 7.3
 * Création du répertoire config si non présent lors de la sauvegarde de l'équipement  
 `Unable to write configuration file /var/www/html/plugins/cloudsyncpro/core/config/rclone.conf`
@@ -39,30 +35,29 @@ ReferenceError: initCheckBox is not defined`
 
 2019-09-24 18:04:27
 -------------------
-
 * Version initiale
 
 Beta
 =========================
 
+2025-12-14 15:45:08
+-------------------
+* Correction d'un bug sur la gestion automatique de la compatibilité (release) du package Guzzle
+
 2025-12-05 16:56:55
 -------------------
-
 * Compatibilité Jeedom V4.5 (core)
 * Mise à jour du framework Rclone (version 1.72.0)
 
 2025-11-27 14:59:53
 -------------------
-
 * Modification de la sévérité du message lors de l'exécution d'une commande
 
 2024-12-22 17:43:42
 -------------------
-
 * Mise à jour du framework Rclone (version 1.68.2)
 
 2023-04-09 15:26:26
 -------------------
-
 * Mise à jour du framework Rclone (version 1.62.2)
 * Actualisation automatique des identifiants (OAuth 2) associés au stockage Google Drive

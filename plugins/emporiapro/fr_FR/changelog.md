@@ -4,6 +4,10 @@ Stable
 Beta
 =========================
 
+2025-12-24 14:10:19
+-------------------
+* Refactorisation du daemon Python (bibliothèque [Mips](https://github.com/Mips2648))
+
 2024-03-14 09:38:38
 -------------------
 * Correction suite à l'évolution de la librarie python PyEmVue

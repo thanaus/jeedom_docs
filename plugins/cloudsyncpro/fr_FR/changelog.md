@@ -1,6 +1,13 @@
 Stable
 =========================
 
+2026-01-02 15:24:31
+-------------------
+* Mise à jour du framework Rclone (version 1.72.0)
+* Compatibilité Jeedom V4.5 (core)
+* Modification de la sévérité du message lors de l'exécution d'une commande
+* Actualisation automatique des identifiants (OAuth 2) associés au stockage Google Drive
+
 2023-03-03 19:20:37
 -------------------
 * Mise à jour du framework Rclone (version 1.57.0)
@@ -42,22 +49,4 @@ Beta
 
 2025-12-14 15:45:08
 -------------------
-* Correction d'un bug sur la gestion automatique de la compatibilité (release) du package Guzzle
 
-2025-12-05 16:56:55
--------------------
-* Compatibilité Jeedom V4.5 (core)
-* Mise à jour du framework Rclone (version 1.72.0)
-
-2025-11-27 14:59:53
--------------------
-* Modification de la sévérité du message lors de l'exécution d'une commande
-
-2024-12-22 17:43:42
--------------------
-* Mise à jour du framework Rclone (version 1.68.2)
-
-2023-04-09 15:26:26
--------------------
-* Mise à jour du framework Rclone (version 1.62.2)
-* Actualisation automatique des identifiants (OAuth 2) associés au stockage Google Drive

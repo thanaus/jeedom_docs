@@ -47,6 +47,3 @@ ReferenceError: initCheckBox is not defined`
 Beta
 =========================
 
-2025-12-14 15:45:08
--------------------
-

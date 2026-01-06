@@ -47,3 +47,6 @@ ReferenceError: initCheckBox is not defined`
 Beta
 =========================
 
+2026-01-06 21:41:15
+-------------------
+* Intégration du stockage WebDAV

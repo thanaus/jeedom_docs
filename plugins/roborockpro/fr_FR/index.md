@@ -25,6 +25,20 @@ famille de modèles.
 La connexion à votre compte se fait de façon sécurisée par e-mail et code de
 confirmation : aucun mot de passe n'est demandé ni stocké par le plugin.
 
+# Robots testés
+
+Le plugin est conçu pour fonctionner avec l'ensemble des robots Roborock connectés au
+cloud, mais les modèles suivants ont été officiellement testés :
+
+| Robot                 | Nom interne (modèle)     |
+|------------------------|--------------------------|
+| Roborock Qrevo Master  | `roborock.vacuum.a117`  |
+| Roborock Qrevo Curv    | `roborock.vacuum.a135`  |
+| Roborock Qrevo Pro     | `roborock.vacuum.a101`  |
+| Roborock S8            | `roborock.vacuum.a51`  |
+| Roborock Saros 20      | `roborock.vacuum.a288`  |
+| Roborock Q10 X5+       | `roborock.vacuum.ss09`  |
+
 # Versions supportées
 
 | Composant | Version                                              |
@@ -109,10 +123,15 @@ Wi-Fi/cloud classique). En plus des commandes communes :
 - Nettoyage d'une pièce spécifique (liste des pièces provenant automatiquement de la
   carte enregistrée sur votre compte Roborock)
 
-Sur les modèles disposant d'un bac de nettoyage automatique et d'un suivi détaillé du
-dock (par ex. Roborock Qrevo Curv), des informations supplémentaires sont remontées :
+Sur les modèles disposant d'un dock (charge simple ou station complète, par ex.
+Roborock S8), des informations supplémentaires sont remontées :
 
 - État du dock, erreur du dock
+
+Sur les modèles dont le dock est une station complète avec auto-vidage et/ou lavage
+automatique (par ex. Roborock Qrevo Curv), des informations supplémentaires encore sont
+remontées :
+
 - État du réservoir d'eau sale, état du réservoir d'eau propre
 - État du sac à poussière du dock
 - Suivi du bac de nettoyage (consommable additionnel)

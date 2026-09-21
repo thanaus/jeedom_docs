@@ -36,8 +36,17 @@ cloud, mais les modèles suivants ont été officiellement testés :
 | Roborock Qrevo Curv    | `roborock.vacuum.a135`  |
 | Roborock Qrevo Pro     | `roborock.vacuum.a101`  |
 | Roborock S8            | `roborock.vacuum.a51`  |
+| Roborock S8 Pro Ultra  | `roborock.vacuum.a70`  |
 | Roborock Saros 20      | `roborock.vacuum.a288`  |
+| Roborock S7 MaxV       | `roborock.vacuum.a27`  |
+| Roborock Qrevo Edge 3 Pro | `roborock.vacuum.a296`  |
 | Roborock Q10 X5+       | `roborock.vacuum.ss09`  |
+
+> **Remarque**
+>
+> Le Roborock Qrevo Edge 3 Pro et le Saros 20 Neo sont en réalité le même robot,
+> commercialisé sous deux noms différents selon les marchés (source :
+> [vacuumwars.com](https://vacuumwars.com/roborocks-ifa-2026-lineup/)).
 
 # Versions supportées
 

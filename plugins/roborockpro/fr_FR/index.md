@@ -41,6 +41,7 @@ cloud, mais les modèles suivants ont été officiellement testés :
 | Roborock S7 MaxV       | `roborock.vacuum.a27`  |
 | Roborock Qrevo Edge 3 Pro | `roborock.vacuum.a296`  |
 | Roborock S7 Max Ultra  | `roborock.vacuum.a65`  |
+| Roborock S7            | `roborock.vacuum.a15`  |
 | Roborock Q10 X5+       | `roborock.vacuum.ss09`  |
 
 > **Remarque**
